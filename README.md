@@ -43,7 +43,7 @@ npm install
 npx playwright install chromium
 npm run scrape          # opcional: nuevo run en output/runs/<timestamp>/
 npm run analyze         # analysis.json → último run + copia a dashboard/public/data/
-npm run insights        # informe + insights (usa OPENROUTER_API_KEY del .env)
+npm run insights        # informe + insights (requiere API key de OpenRouter, ver abajo)
 npm run dashboard:dev   # http://localhost:3001
 ```
 
@@ -51,11 +51,11 @@ npm run dashboard:dev   # http://localhost:3001
 
 **Regenerar solo texto del informe (misma data):** `npm run insights:offline` o `npm run insights -- --run=output/runs/<carpeta>`.
 
-## `.env` en el repo
+## API key de OpenRouter
 
-Se versiona `.env` con `OPENROUTER_API_KEY` para que `npm run insights` sea reproducible al clonar (sin pasos manuales de clave). La clave de OpenRouter usada para el entregable **vence el 28/03/2026**; después de esa fecha hace falta reemplazarla en `.env` o usar `npm run insights:offline`.
+Para **regenerar** el informe con LLM (`npm run insights`) necesitás una clave propia en [openrouter.ai/keys](https://openrouter.ai/keys). Copiá [`.env.example`](.env.example) a `.env` y pegá `OPENROUTER_API_KEY=...`. **No subas `.env` a Git** (está en `.gitignore`): OpenRouter deshabilita claves expuestas en repositorios públicos.
 
-`.env.local` sigue ignorado para overrides personales sin tocar el remoto.
+El repo ya incluye `insights.json` / `informe.md` generados y el dashboard funciona sin clave. Sin API key, `npm run insights` cae en modo offline (`insights:offline`).
 
 ## Archivos clave
 

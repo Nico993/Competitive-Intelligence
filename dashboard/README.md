@@ -22,7 +22,7 @@ Variables de entorno (solo para insights con LLM):
 OPENROUTER_API_KEY=sk-or-v1-tu-clave-aqui
 ```
 
-(Tenés un ejemplo en [`.env.example`](../.env.example). En este repo el `.env` puede estar versionado para reproducibilidad; ver [README raíz](../README.md).) También podés exportarla en la terminal: `export OPENROUTER_API_KEY='...'` antes de `npm run insights`.
+(Tenés un ejemplo en [`.env.example`](../.env.example); el archivo `.env` no se commitea — ver [README raíz](../README.md).) También podés exportarla en la terminal: `export OPENROUTER_API_KEY='...'` antes de `npm run insights`.
 
 Opciones útiles:
 
