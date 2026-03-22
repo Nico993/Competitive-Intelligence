@@ -53,7 +53,7 @@ npm run dashboard:dev   # http://localhost:3001
 
 ## API key de OpenRouter
 
-Para **regenerar** el informe con LLM (`npm run insights`) necesitás una clave propia en [openrouter.ai/keys](https://openrouter.ai/keys). Copiá [`.env.example`](.env.example) a `.env` y pegá `OPENROUTER_API_KEY=...`. **No subas `.env` a Git** (está en `.gitignore`): OpenRouter deshabilita claves expuestas en repositorios públicos.
+Para **regenerar** el informe con LLM (`npm run insights`) necesitás una clave propia en [openrouter.ai/keys](https://openrouter.ai/keys). Copiá [`.env.example`](.env.example) a `.env` y pegá `OPENROUTER_API_KEY=...`.
 
 El repo ya incluye `insights.json` / `informe.md` generados y el dashboard funciona sin clave. Sin API key, `npm run insights` cae en modo offline (`insights:offline`).
 
