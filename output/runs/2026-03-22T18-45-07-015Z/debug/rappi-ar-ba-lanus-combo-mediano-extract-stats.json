@@ -1,0 +1,72 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 70,
+  "blocks": 70,
+  "rows": 4,
+  "rowsPreview": [
+    {
+      "store_name": "Mcdonald's Turbo - Flo Int 1",
+      "product_display_name": "McCombo Mediano Triple Hamburguesa con Queso$ 13.680,00$ 17.100,0020%McCombo Mediano Grand Doble Tasty Turbo Bacon$ 17.840,00$ 22.300,0020%McCombo Mediano Big Mac$ 16.000,00<img alt=\"McCombo Mediano Tasty Feat Cuarto Doble\" src=\"https://images.rappi.com.ar/products/5f743131-1f4f-42dc-afe0-6dc238914a7b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>McCombo Mediano Tasty Feat Cuarto Doble$ 20.800,00McCombo Mediano Grand Doble Tasty$ 20.800,00McCombo Mediano Doble Cuarto de Libra$ 19.500,00<img alt=\"McCombo Mediano Grand Feat ClubHouse Simple\" src=\"https://images.rappi.com.ar/products/ae1e274b-0ba9-4b61-93cc-bd3254af81cc.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>McCombo Mediano Grand Feat ClubHouse Simple$ 19.900,00McCombo Mediano Grand Doble McBacon$ 21.000,00<img alt=\"McCombo Mediano Doble Cuarto de Libra + Pileta de cheddar GRATIS\" src=\"https://images.rappi.com.ar/products/66d29068-1e69-496d-a538-6da96d3bdb7a.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Doble Cuarto de Libra + Pileta de cheddar GRATIS$ 19.501,02$ 23.100,0016%McCombo Mediano McNífica$ 17.200,00McCombo Mediano Cuarto de Libra$ 17.000,00<img alt=\"McCombo Mediano Tasty Feat Cuarto Simple\" src=\"https://images.rappi.com.ar/products/50bef445-2667-4f15-a530-06f1bd9aaf60.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Tasty Feat Cuarto Simple$ 19.400,00McCombo Mediano Bacon Cheddar McMelt$ 19.300,00McCombo Grande Doble Cuarto de Libra$ 22.000,00McCombo Grande McNífica$ 19.700,00McCombo Grande Cuarto de Libra$ 19.500,00",
+      "product_price": "$ 13.680,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mcdonald's Turbo - Flo Int 15 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaMcCombo Mediano Triple Hamburguesa con Queso$ 13.680,00$ 17.100,0020%McCombo Mediano Grand Doble Tasty Turbo Bacon$ 17.840,00$ 22.300,0020%McCombo Mediano Big Mac$ 16.000,00<img alt=\"McCombo Mediano Tasty Feat Cuarto Doble\" src=\"https://images.rappi.com.ar/products/5f743131-1f4f-42dc-afe0-6dc238914a7b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>McCombo Mediano Tasty Feat Cuarto Doble$ 20.800,00McCombo Mediano Grand Doble Tasty$ 20.800,0",
+      "match_confidence": 0.004878048780487805,
+      "store_url": "https://www.rappi.com.ar/restaurantes/221212",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mcdonald's Turbo - Flo Int",
+      "product_display_name": "McCombo Mediano Big Mac",
+      "product_price": "$ 16.000,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mcdonald's Turbo - Flo Int\n\n15 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nMcCombo Mediano Triple Hamburguesa con Queso\n$ 13.680,00$ 17.100,00\n20%\nMcCombo Mediano Grand Doble Tasty Turbo Bacon\n$ 17.840,00$ 22.300,00\n20%\nMcCombo Mediano Big Mac\n$ 16.000,00\nMcCombo Mediano Tasty Feat Cuarto Doble\n$ 20.800,00\nMcCombo Mediano Grand Doble Tasty\n$ 20.800,00\nMcCombo Mediano Doble Cuarto de Libra\n$ 19.500,00\nMcCombo Mediano Grand Feat ClubHouse Simple\n$ 19.900,00\nMcCombo Mediano Grand Doble McBacon\n$ 21.000,00\nMcCombo Mediano Doble Cuarto de Libra + Pileta de cheddar GRATIS\n$ 19.501,02$ 23.100,00\n16%\nMcCombo Mediano McNífica\n$ 17.200,00\nMcCombo Mediano Cuarto de Libra\n$ 17.000,00\nMcCombo Mediano Tasty Feat Cuarto Simple\n$ 19.400,00\nMcCombo Mediano Bacon Cheddar McMelt\n$ 19.300,00\n",
+      "match_confidence": 0.5652173913043478,
+      "store_url": "https://www.rappi.com.ar/restaurantes/221212",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - FLO int",
+      "product_display_name": "McCombo Mediano Triple Hamburguesa con Queso$ 13.680,00$ 17.100,0020%McCombo Mediano Grand Doble Tasty$ 20.800,00McCombo Mediano Tasty Feat Cuarto Doble$ 20.800,00McCombo Mediano Doble Cuarto de Libra$ 19.500,00McCombo Mediano Big Mac$ 16.000,00McCombo Mediano Grand Doble McBacon$ 21.000,00McCombo Mediano Grand Feat ClubHouse Simple$ 19.900,00McCombo Mediano Cuarto de Libra$ 17.000,00McCombo Mediano Bacon Cheddar McMelt$ 19.300,00McCombo Grande Doble Cuarto de Libra$ 22.000,00McCombo Mediano Grand Doble Tasty Turbo Bacon$ 22.300,00<img alt=\"McCombo Mediano McNuggets x20\" src=\"https://images.rappi.com.ar/products/4430d7c2-2a80-4843-b70d-49aec0e504ac.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano McNuggets x20$ 19.300,00<img alt=\"McCombo Mediano Tasty Feat Cuarto Simple\" src=\"https://images.rappi.com.ar/products/50bef445-2667-4f15-a530-06f1bd9aaf60.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Tasty Feat Cuarto Simple$ 19.400,00McCombo Mediano McNífica$ 17.200,00McCombo Mediano McCrispy Chicken Cheddar y Bacon$ 15.700,00<img alt=\"McCombo Mediano Doble Cuarto de Libra + Pileta de cheddar GRATIS\" src=\"https://images.rappi.com.ar/products/66d29068-1e69-496d-a538-6da96d3bdb7a.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Doble Cuarto de Libra + Pileta de cheddar GRATIS$ 19.501,02$ 23.100,0016%McCombo Mediano McCrispy Chicken Deluxe$ 14.900,00McCombo Grande McCrispy Chicken Cheddar y Bacon$ 18.200,00<img alt=\"McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/fc259b86-09b2-47f6-b3fc-74bc5e02bfdb.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Big Mac$ 16.000,00",
+      "product_price": "$ 13.680,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "12 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - FLO int12 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaMcCombo Mediano Triple Hamburguesa con Queso$ 13.680,00$ 17.100,0020%McCombo Mediano Grand Doble Tasty$ 20.800,00McCombo Mediano Tasty Feat Cuarto Doble$ 20.800,00McCombo Mediano Doble Cuarto de Libra$ 19.500,00McCombo Mediano Big Mac$ 16.000,00McCombo Mediano Grand Doble McBacon$ 21.000,00McCombo Mediano Grand Feat ClubHouse Simple$ 19.900,00McCombo Mediano Cuarto de Libra$ 17.000,00McCombo Mediano Bacon Cheddar McMelt$ 19.300,00McCombo Grande Doble Cuarto de Libra$ 22.000,00McCombo Mediano Grand Doble Tasty Turbo Bacon$ 22.300,00<img alt=\"McCombo Mediano McNuggets x20\" src=\"https://images.rappi.com.ar/products/4430d7c2-2a80-4843-b70d-49aec0e504ac.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill",
+      "match_confidence": 0.004614838480653177,
+      "store_url": "https://www.rappi.com.ar/restaurantes/113807",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - FLO int",
+      "product_display_name": "McCombo Mediano Big Mac",
+      "product_price": "$ 16.000,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "2 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - FLO int\n\n12 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nMcCombo Mediano Triple Hamburguesa con Queso\n$ 13.680,00$ 17.100,00\n20%\nMcCombo Mediano Grand Doble Tasty\n$ 20.800,00\nMcCombo Mediano Tasty Feat Cuarto Doble\n$ 20.800,00\nMcCombo Mediano Doble Cuarto de Libra\n$ 19.500,00\nMcCombo Mediano Big Mac\n$ 16.000,00\nMcCombo Mediano Grand Doble McBacon\n$ 21.000,00\nMcCombo Mediano Grand Feat ClubHouse Simple\n$ 19.900,00\nMcCombo Mediano Cuarto de Libra\n$ 17.000,00\nMcCombo Mediano Bacon Cheddar McMelt\n$ 19.300,00\nMcCombo Grande Doble Cuarto de Libra\n$ 22.000,00\nMcCombo Mediano Grand Doble Tasty Turbo Bacon\n$ 22.300,00\nMcCombo Mediano McNuggets x20\n$ 19.300,00\nMcCombo Mediano Tasty Feat Cuarto Simple\n$ 19.400,00\nMcCombo Mediano McNífica\n$ 17.200,00\nMcCombo Mediano McCris",
+      "match_confidence": 0.5652173913043478,
+      "store_url": "https://www.rappi.com.ar/restaurantes/113807",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

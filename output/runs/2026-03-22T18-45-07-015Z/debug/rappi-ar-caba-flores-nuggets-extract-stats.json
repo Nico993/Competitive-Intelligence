@@ -1,0 +1,136 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 62,
+  "blocks": 62,
+  "rows": 44,
+  "rowsPreview": [
+    {
+      "store_name": "Burger King - Urquiza",
+      "product_display_name": "<img alt=\"Nuggets X10 + papas regulares\" src=\"https://images.rappi.com.ar/products/f5513420-96f5-40fd-b1d9-e44648296660.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Nuggets X10 + papas regulares$ 13.499,85$ 20.769,0035%30  Nuggets rebozados$ 17.900,00Nuggets Vegetales x10$ 9.900,00<img alt=\"Combo King Vegetal\" src=\"https://images.rappi.com.ar/products/73be2fd7-2fff-47ea-b39f-810e590aeb16.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo King Vegetal$ 18.200,00Combo King de Pollo  $ 18.200,00<img alt=\"Combo Nuggets Vegetal x20\" src=\"https://images.rappi.com.ar/products/f4e36a6a-ae00-401d-a5ac-f3dbc504e2f9.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Nuggets Vegetal x20$ 21.900,00<img alt=\"Combo Cajita nuggets x4\" src=\"https://images.rappi.com.ar/products/0342058f-ea62-430d-8500-7a84d75c453b.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Cajita nuggets x4$ 15.100,00Combo  Whopper Vegetal Guacamole$ 21.300,00Combo Whopper + Franui$ 22.500,00Combo Cajita Nuggets Vegetales x 4$ 15.100,00Combo Bacon King Pollo$ 22.500,00",
+      "product_price": "$ 13.499,85",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "25 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Urquiza25 min•$ 0,00•4.8Envío Gratis: Aplican TyCIr a la tienda<img alt=\"Nuggets X10 + papas regulares\" src=\"https://images.rappi.com.ar/products/f5513420-96f5-40fd-b1d9-e44648296660.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Nuggets X10 + papas regulares$ 13.499,85$ 20.769,0035%30  Nuggets rebozados$ 17.900,00Nuggets Vegetales x10$ 9.900,00<img alt=\"Combo King Vegetal\" src=\"https://images.rappi.com.ar/products/73be2fd7-2fff-47ea-b39f-810e590aeb16.jpg?e=webp&amp;q=80&amp;d=130x130\" decodi",
+      "match_confidence": 0.003178928247048138,
+      "store_url": "https://www.rappi.com.ar/restaurantes/124978",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Burger King - Urquiza",
+      "product_display_name": "30 Nuggets rebozados",
+      "product_price": "$ 17.900,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Urquiza\n\n25 min\n\n•\n$ 0,00\n•\n4.8\nEnvío Gratis: Aplican TyC\nIr a la tienda\nNuggets X10 + papas regulares\n$ 13.499,85$ 20.769,00\n35%\n30 Nuggets rebozados\n$ 17.900,00\nNuggets Vegetales x10\n$ 9.900,00\nCombo King Vegetal\n$ 18.200,00\nCombo King de Pollo\n$ 18.200,00\nCombo Nuggets Vegetal x20\n$ 21.900,00\nCombo Cajita nuggets x4\n$ 15.100,00\nCombo Whopper Vegetal Guacamole\n$ 21.300,00\nCombo Whopper + Franui\n$ 22.500,00\nCombo Cajita Nuggets Vegetales x 4\n$ 15.100,00\nCombo Bacon King Pollo\n$ 22.500,00\nVer todos",
+      "match_confidence": 0.35,
+      "store_url": "https://www.rappi.com.ar/restaurantes/124978",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mcdonald's Turbo - Sm1 Int 1",
+      "product_display_name": "McNifica + Papas Medianas$ 11.898,66$ 18.300,0035%<img alt=\"Cajita Feliz McNuggets x 6\" src=\"https://images.rappi.com.ar/products/f91b2af7-b0d8-481d-8612-63dc58bcaa7b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Cajita Feliz McNuggets x 6$ 13.800,00<img alt=\"Cajita Feliz McNuggets x 4\" src=\"https://images.rappi.com.ar/products/63fd1d64-a2c8-4bdf-8c8e-c2300debb9b7.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Cajita Feliz McNuggets x 4$ 13.000,00<img alt=\"20 OFF CajitaFeliz + McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/97a04ec3-4bdd-4076-bd6d-bf7b6ad73333.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>20 OFF CajitaFeliz + McCombo Mediano Big Mac$ 24.320,00$ 30.400,0020%McCombo Mediano McNífica$ 19.000,00McCombo Grande McNífica$ 21.500,00McCombo Grande Doble Bacon Cheddar McMelt$ 25.300,00McCombo Grande Big Mac$ 20.100,00McNífica$ 13.300,00McCombo Grande Triple Hamburguesa con Queso$ 21.400,00McCombo Grande Grand Doble Tasty Turbo Bacon$ 27.000,00",
+      "product_price": "$ 11.898,66",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mcdonald's Turbo - Sm1 Int 13 min•$ 0,00•4.8Envío Gratis: Aplican TyCIr a la tiendaMcNifica + Papas Medianas$ 11.898,66$ 18.300,0035%<img alt=\"Cajita Feliz McNuggets x 6\" src=\"https://images.rappi.com.ar/products/f91b2af7-b0d8-481d-8612-63dc58bcaa7b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Cajita Feliz McNuggets x 6$ 13.800,00<img alt=\"Cajita Feliz McNuggets x 4\" src=\"https://images.rappi.com.ar/products/63fd1d64-a2c8-4bdf-8c8e-c2300debb9b7.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nim",
+      "match_confidence": 0.003779697624190065,
+      "store_url": "https://www.rappi.com.ar/restaurantes/220742",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mcdonald's Turbo - Sm1 Int",
+      "product_display_name": "Cajita Feliz McNuggets x 4",
+      "product_price": "$ 13.000,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mcdonald's Turbo - Sm1 Int\n\n13 min\n\n•\n$ 0,00\n•\n4.8\nEnvío Gratis: Aplican TyC\nIr a la tienda\nMcNifica + Papas Medianas\n$ 11.898,66$ 18.300,00\n35%\nCajita Feliz McNuggets x 6\n$ 13.800,00\nCajita Feliz McNuggets x 4\n$ 13.000,00\n20 OFF CajitaFeliz + McCombo Mediano Big Mac\n$ 24.320,00$ 30.400,00\n20%\nMcCombo Mediano McNífica\n$ 19.000,00\nMcCombo Grande McNífica\n$ 21.500,00\nMcCombo Grande Doble Bacon Cheddar McMelt\n$ 25.300,00\nMcCombo Grande Big Mac\n$ 20.100,00\nMcNífica\n$ 13.300,00\nMcCombo Grande Triple Hamburguesa con Queso\n$ 21.400,00\nMcCombo Grande Grand Doble Tasty Turbo Bacon\n$ 27.000,00\nVer todos",
+      "match_confidence": 0.2692307692307692,
+      "store_url": "https://www.rappi.com.ar/restaurantes/220742",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - SM1 int",
+      "product_display_name": "McNuggets x10$ 12.900,00McCombio Mediano McNuggets x10$ 17.900,00McNuggets x20$ 15.600,00McCombo Grande McNuggets x10$ 20.400,00McNifica + Papas Medianas$ 11.898,66$ 18.300,0035%McCombo Grande McNuggets x20$ 23.900,00McCombo Mediano McNuggets x20$ 21.400,00Cajita Feliz McNuggets x 6$ 13.800,00McCombo Grande Doble Bacon Cheddar McMelt$ 25.300,00Cajita Feliz McNuggets x 4$ 13.000,0020 OFF CajitaFeliz + McCombo Mediano Big Mac$ 24.320,00$ 30.400,0020%McCombo Grande Grand Doble Tasty Turbo Bacon$ 27.000,00McCombo Grande Big Mac$ 20.100,00McCombo Mediano McNífica$ 19.000,00McCombo Grande McNífica$ 21.500,00McCombo Grande Triple Hamburguesa con Queso$ 21.400,00McNuggets x4$ 3.400,00$ 6.800,0050%McCombo Grande McCrispy Chicken Cheddar y Bacon$ 19.800,00McCrispy Chicken Cheddar y Bacon$ 11.300,00McNuggets x6$ 8.400,00",
+      "product_price": "$ 12.900,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "15 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - SM1 int15 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaMcNuggets x10$ 12.900,00McCombio Mediano McNuggets x10$ 17.900,00McNuggets x20$ 15.600,00McCombo Grande McNuggets x10$ 20.400,00McNifica + Papas Medianas$ 11.898,66$ 18.300,0035%McCombo Grande McNuggets x20$ 23.900,00McCombo Mediano McNuggets x20$ 21.400,00Cajita Feliz McNuggets x 6$ 13.800,00McCombo Grande Doble Bacon Cheddar McMelt$ 25.300,00Cajita Feliz McNuggets x 4$ 13.000,0020 OFF CajitaFeliz + McCombo Mediano Big Mac$ 24.320,00$ 30.400,0020%McCombo Grande Grand Doble Tasty Turbo Bacon$ 27.000,00McCombo Grande Big Mac$ 20.100,00McCombo Mediano McNífica$ 19.000,00McCombo Grande McNífica$ 21.500,00McCombo Grande Triple Hamburguesa con Queso$ 21.400,00McNuggets x4$ 3.400,00$ 6.800,0050%McCombo Grande McCrispy Ch",
+      "match_confidence": 0.008526187576126675,
+      "store_url": "https://www.rappi.com.ar/restaurantes/114164",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - SM1 int",
+      "product_display_name": "McNuggets x6",
+      "product_price": "$ 8.400,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - SM1 int\n\n15 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nMcNuggets x10\n$ 12.900,00\nMcCombio Mediano McNuggets x10\n$ 17.900,00\nMcNuggets x20\n$ 15.600,00\nMcCombo Grande McNuggets x10\n$ 20.400,00\nMcNifica + Papas Medianas\n$ 11.898,66$ 18.300,00\n35%\nMcCombo Grande McNuggets x20\n$ 23.900,00\nMcCombo Mediano McNuggets x20\n$ 21.400,00\nCajita Feliz McNuggets x 6\n$ 13.800,00\nMcCombo Grande Doble Bacon Cheddar McMelt\n$ 25.300,00\nCajita Feliz McNuggets x 4\n$ 13.000,00\n20 OFF CajitaFeliz + McCombo Mediano Big Mac\n$ 24.320,00$ 30.400,00\n20%\nMcCombo Grande Grand Doble Tasty Turbo Bacon\n$ 27.000,00\nMcCombo Grande Big Mac\n$ 20.100,00\nMcCombo Mediano McNífica\n$ 19.000,00\nMcCombo Grande McNífica\n$ 21.500,00\nMcCombo Grande Triple Hamburguesa con Queso\n$ 21.400,00\nMcNuggets x4\n$ 3.",
+      "match_confidence": 0.5833333333333334,
+      "store_url": "https://www.rappi.com.ar/restaurantes/114164",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "What The Burger - Buenos Aires",
+      "product_display_name": "Crispy Bacon con papas$ 14.490,00$ 20.700,0030%Cheese Burger con papas$ 14.480,00$ 18.100,0020%American con papas$ 12.670,00$ 18.100,0030%IN N What con papas$ 14.490,00$ 20.700,0030%Mushroom con papas$ 20.700,00Nuggets x 12$ 12.900,00Oklahoma con papas$ 18.100,00Sliders x2 sin papas$ 13.800,00Blue Magic con papas$ 20.700,00Nuggets x 6$ 9.050,00Sweet Smash con papas$ 20.700,00Spicy Burger con papas$ 20.700,00Sliders x3$ 21.300,00Sliders x2$ 17.000,00Coca Cola sin Azucar 500cc$ 5.500,00Papas con Cheddar y Bacon Ahumado$ 17.520,00Coca Cola 500cc$ 5.500,00Sprite Lima Limon 500cc$ 5.500,00Fanta 500cc$ 5.500,00Papas con Cheddar, Bacon y Huevo Frito$ 17.520,00Sprite sin Azucar 500cc$ 5.500,00",
+      "product_price": "$ 14.490,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "40 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "What The Burger - Buenos Aires40 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaCrispy Bacon con papas$ 14.490,00$ 20.700,0030%Cheese Burger con papas$ 14.480,00$ 18.100,0020%American con papas$ 12.670,00$ 18.100,0030%IN N What con papas$ 14.490,00$ 20.700,0030%Mushroom con papas$ 20.700,00Nuggets x 12$ 12.900,00Oklahoma con papas$ 18.100,00Sliders x2 sin papas$ 13.800,00Blue Magic con papas$ 20.700,00Nuggets x 6$ 9.050,00Sweet Smash con papas$ 20.700,00Spicy Burger con papas$ 20.700,00Sliders x3$ 21.300,00Sliders x2$ 17.000,00Coca Cola sin Azucar 500cc$ 5.500,00Papas con Cheddar y Bacon Ahumado$ 17.520,00Coca Cola 500cc$ 5.500,00Sprite Lima Limon 500cc$ 5.500,00Fanta 500cc$ 5.500,00Papas con Cheddar, Bacon y Huevo Frito$ 17.520,00Sprite sin Azucar 500cc$ 5.500,00",
+      "match_confidence": 0.010086455331412104,
+      "store_url": "https://www.rappi.com.ar/restaurantes/238331",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "What The Burger - Buenos Aires",
+      "product_display_name": "Nuggets x 6",
+      "product_price": "$ 9.050,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "0 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "What The Burger - Buenos Aires\n\n40 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nCrispy Bacon con papas\n$ 14.490,00$ 20.700,00\n30%\nCheese Burger con papas\n$ 14.480,00$ 18.100,00\n20%\nAmerican con papas\n$ 12.670,00$ 18.100,00\n30%\nIN N What con papas\n$ 14.490,00$ 20.700,00\n30%\nMushroom con papas\n$ 20.700,00\nNuggets x 12\n$ 12.900,00\nOklahoma con papas\n$ 18.100,00\nSliders x2 sin papas\n$ 13.800,00\nBlue Magic con papas\n$ 20.700,00\nNuggets x 6\n$ 9.050,00\nSweet Smash con papas\n$ 20.700,00\nSpicy Burger con papas\n$ 20.700,00\nSliders x3\n$ 21.300,00\nSliders x2\n$ 17.000,00\nCoca Cola sin Azucar 500cc\n$ 5.500,00\nPapas con Cheddar y Bacon Ahumado\n$ 17.520,00\nCoca Cola 500cc\n$ 5.500,00\nSprite Lima Limon 500cc\n$ 5.500,00\nFanta 500cc\n$ 5.500,00\nPapas con Cheddar, Bacon y Huevo Frito\n$ 17.520,00",
+      "match_confidence": 0.6363636363636364,
+      "store_url": "https://www.rappi.com.ar/restaurantes/238331",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

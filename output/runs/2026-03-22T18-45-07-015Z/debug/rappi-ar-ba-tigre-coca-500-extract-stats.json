@@ -1,0 +1,124 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 109,
+  "blocks": 109,
+  "rows": 99,
+  "rowsPreview": [
+    {
+      "store_name": "Turbo",
+      "product_display_name": "Coca-Cola Zero 237 Ml Agregar",
+      "product_price": "$ 3.259,00",
+      "delivery_fee": "$ 990,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [],
+      "raw_snippet": "Turbo\n\n18 - 21 min\n\n•\n$ 990,00\nIr a la tienda\nAgregar\n0\n$ 2.459,00\n(6.95/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 3.229,00\n(2.59/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 1.129,00\n(4.77/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 3.259,00\n(2.61/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Zero 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 4.200,00\n(2.10/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 7.575,00\n(3.37/ml)\nCoca-Cola Sabor Original 2,",
+      "match_confidence": 0.42857142857142855,
+      "store_url": "https://www.rappi.com.ar/tiendas/184924-turbo/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Despensa",
+      "product_display_name": "Coca-Cola Zero 237 Ml Agregar",
+      "product_price": "$ 3.259,00",
+      "delivery_fee": "$ 990,00",
+      "service_fee": null,
+      "eta_range": "0 min",
+      "promotions": [],
+      "raw_snippet": "La Despensa\n\n17 - 20 min\n\n•\n$ 990,00\nIr a la tienda\nAgregar\n0\n$ 3.229,00\n(2.59/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.459,00\n(6.95/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 1.129,00\n(4.77/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 3.259,00\n(2.61/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Zero 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 4.200,00\n(2.10/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 7.575,00\n(3.37/ml)\nCoca-Cola Sabor Origi",
+      "match_confidence": 0.42857142857142855,
+      "store_url": "https://www.rappi.com.ar/tiendas/220671-turbo-express-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 2.200,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n31 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 1.512,00\n$ 1.890,00\n20%\n(0.68/ml)\nGaseosa Cola Original Coto\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 1.400,00\n$ 2.000,00\n30%\n(3.96/ml)\nPepsi Gaseosa Black\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 2.200,00\n(6.22/m",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/248238-coto/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Open 25",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 2.225,00",
+      "delivery_fee": "$ 1.390,00",
+      "service_fee": null,
+      "eta_range": "2 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Open 25\n\n22 - 42 min\n\n•\n$ 1.390,00\nIr a la tienda\nAgregar\n0\n$ 4.500,00\n$ 7.500,00\n40%\n(2/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(2.94/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 5.733,00\n$ 6.300,00\n9%\n(3.28/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 1.896,00\n$ 2.400,00\n21%\n(5.36/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 4.500,00\n$ 7.500,00\n40%\n(2.25/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 5.040,00\n$ 6.300,00\n20%\n(2.88/ml)\nCoca-Cola Sabor Liviano 1,75 Lt\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(2.94/ml)\nCoca Cola Zero\nAgregar\n0\n$ 2.225,00\n$ 2.500,00\n11%\n(1.49/ml)\nPepsi Bebida Gaseosa Sabor Cola\nAgregar\n0\n$ 1.520,00\n$ 1.900,00\n20%\n(4.30/ml)\nGaseosa Sin Azúcar Pepsi Black Twist 354 cc\nAgregar\n0\n$ 5.733,00\n$ 6.300,00\n9%\n(3.28/ml)\nSprite Gaseosa Lima",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/232949-open25/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Jumbo",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 4.000,00",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": "8 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Jumbo\n\n68 min o prog.\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 1.826,00\n$ 2.200,00\n17%\n(3.05/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Liviano 1,75 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nSprite Zero Lima-Limón ",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/112241-jumbo-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Makro",
+      "product_display_name": "Coca-Cola Zero 354 Ml Agregar",
+      "product_price": "$ 4.759,02",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": null,
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Makro\n\nLun, 8 AM\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 2.790,10\n(1.60/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 4.735,27\n(2.11/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 4.736,01\n(2.37/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 8.490,00\n(23.99/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 8.489,99\n(23.99/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 4.759,02\n(2.12/ml)\nSprite Gaseosa Lima-Limón\nAgregar\n0\n$ 1.331,13\n(0.89/ml)\nGaseosa Cola Suave Cunnington 1500cmq\nAgregar\n0\n$ 4.020,34\n(2.30/ml)\nCoca-Cola Sabor Liviano 1,75 Lt\nAgregar\n0\n$ 4.736,01\n(2.11/ml)\nCoca-Cola Gaseosa Sabor Liviano\nAgregar\n0\n$ 3.900,00\n(1.95/ml)\nGaseosa Sin Azúcar Pepsi Regular 2000 cc\nAgregar\n0\n$ 4.036,80\n(2.31/ml)\nSprite Zero Lima-Limón 1,75 Lt\nAgregar\n0\n$ 875,93\n(1.76/ml)\nPepsi Gaseosa\nAgregar\n0\n$ 4.720,",
+      "match_confidence": 0.42857142857142855,
+      "store_url": "https://www.rappi.com.ar/tiendas/215122-makro-mt-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Distrito Resto Parrilla 1",
+      "product_display_name": "Coca cola 500ml$ 4.500,00Coca zero 500ml$ 4.500,00Lata cerveza brahma stella 475 ml$ 7.500,00Vino Blanco Lopez 750 ml$ 12.500,00Vino Malbec Lopez 750 ml$ 13.500,00Tabla Mix de Chichu y Riñon P/2$ 23.000,00Ensalada Mixta$ 8.500,00Mila terneta napolitana$ 19.900,00San mila de pollo suprema completo$ 17.000,00Vino Tinto Alma Mora Malbec$ 16.000,00San milanesa$ 14.900,00Parrillada para cinco (5)$ 109.000,00Papas Bomba Fritas con Crema + Jamon + Verdeo$ 11.000,00San milanesa completol$ 18.000,00Cerveza rubia corono 330 cc$ 9.000,00Riñones para Dos$ 17.500,00Milanesa gringa xxl comnes 3 pican 4$ 48.900,00Trumpeter Malbec Cabenet$ 19.000,00Milanesa napolitana xxl comen 3 pican 4$ 49.500,00Milanesa zeta xxl comen 3 pican 4$ 48.500,00San milanesa pollo suprema$ 15.900,00San Pollo Grille Pechuga$ 17.900,00",
+      "product_price": "$ 4.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "Distrito Resto Parrilla 13 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaCoca cola 500ml$ 4.500,00Coca zero 500ml$ 4.500,00Lata cerveza brahma stella 475 ml$ 7.500,00Vino Blanco Lopez 750 ml$ 12.500,00Vino Malbec Lopez 750 ml$ 13.500,00Tabla Mix de Chichu y Riñon P/2$ 23.000,00Ensalada Mixta$ 8.500,00Mila terneta napolitana$ 19.900,00San mila de pollo suprema completo$ 17.000,00Vino Tinto Alma Mora Malbec$ 16.000,00San milanesa$ 14.900,00Parrillada para cinco (5)$ 109.000,00Papas Bomba Fritas con Crema + Jamon + Verdeo$ 11.000,00San milanesa completol$ 18.000,00Cerveza rubia corono 330 cc$ 9.000,00Riñones para Dos$ 17.500,00Milanesa gringa xxl comnes 3 pican 4$ 48.900,00Trumpeter Malbec Cabenet$ 19.000,00Milanesa napolitana xxl comen 3 pican 4$ 49.500,00Milanesa zeta xxl comen 3 pic",
+      "match_confidence": 0.011152416356877323,
+      "store_url": "https://www.rappi.com.ar/restaurantes/206237",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Distrito Resto Parrilla",
+      "product_display_name": "Coca cola 500ml",
+      "product_price": "$ 4.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "Distrito Resto Parrilla\n\n13 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nCoca cola 500ml\n$ 4.500,00\nCoca zero 500ml\n$ 4.500,00\nLata cerveza brahma stella 475 ml\n$ 7.500,00\nVino Blanco Lopez 750 ml\n$ 12.500,00\nVino Malbec Lopez 750 ml\n$ 13.500,00\nTabla Mix de Chichu y Riñon P/2\n$ 23.000,00\nEnsalada Mixta\n$ 8.500,00\nMila terneta napolitana\n$ 19.900,00\nSan mila de pollo suprema completo\n$ 17.000,00\nVino Tinto Alma Mora Malbec\n$ 16.000,00\nSan milanesa\n$ 14.900,00\nParrillada para cinco (5)\n$ 109.000,00\nPapas Bomba Fritas con Crema + Jamon + Verdeo\n$ 11.000,00\nSan milanesa completol\n$ 18.000,00\nCerveza rubia corono 330 cc\n$ 9.000,00\nRiñones para Dos\n$ 17.500,00\nMilanesa gringa xxl comnes 3 pican 4\n$ 48.900,00\nTrumpeter Malbec Cabenet\n$ 19.000,00\nMilanesa napolitana xxl comen 3 pi",
+      "match_confidence": 0.6,
+      "store_url": "https://www.rappi.com.ar/restaurantes/206237",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

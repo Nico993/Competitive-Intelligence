@@ -1,0 +1,13 @@
+{
+  "run_id": "8c5cbc3f-85bf-45e3-a332-86f9ed29fbf0",
+  "platform": "uber-eats-ar",
+  "captured_at": "2026-03-22T15:39:48.526Z",
+  "url": "https://www.ubereats.com/ar/store/sere-cafe-moron-centro-861-gralmachado/noPLk0KUVziSzp-u58jisQ?diningMode=DELIVERY",
+  "title": "Sere Café - Morón Centro (861 Gral.machado) a domicilio en Buenos Aires | Menú y precios | Uber Eats",
+  "initial_url": "https://www.ubereats.com/ar",
+  "viewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "nav_wait_until": "domcontentloaded"
+}

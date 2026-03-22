@@ -1,0 +1,124 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 92,
+  "blocks": 92,
+  "rows": 82,
+  "rowsPreview": [
+    {
+      "store_name": "Turbo",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 2.119,00",
+      "delivery_fee": "$ 1.190,00",
+      "service_fee": null,
+      "eta_range": "8 min",
+      "promotions": [],
+      "raw_snippet": "Turbo\n\n16 - 18 min\n\n•\n$ 1.190,00\nIr a la tienda\nAgregar\n0\n$ 2.429,00\n(6.87/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 3.229,00\n(2.59/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 2.449,00\n(4.09/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 1.109,00\n(4.68/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 1.129,00\n(4.77/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 14.574,00\n(6.87/ml)\n6 x Coca-Cola Sabor Original 354 mL\nAgregar\n0\n$ 3.249,00\n(2.60/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 ",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/166962-turbo-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Despensa",
+      "product_display_name": "Coca-Cola Zero 237 Ml Agregar",
+      "product_price": "$ 3.229,00",
+      "delivery_fee": "$ 1.190,00",
+      "service_fee": null,
+      "eta_range": "7 min",
+      "promotions": [],
+      "raw_snippet": "La Despensa\n\n22 - 27 min\n\n•\n$ 1.190,00\nIr a la tienda\nAgregar\n0\n$ 3.229,00\n(2.59/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.439,00\n(6.89/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 1.119,00\n(4.73/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 3.229,00\n(2.59/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 14.634,00\n(6.89/ml)\n6 x Coca-Cola Sabor Original 354 mL\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Zero 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 4.200,00\n(2.10/ml)\n",
+      "match_confidence": 0.42857142857142855,
+      "store_url": "https://www.rappi.com.ar/tiendas/220671-turbo-express-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.650,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n26 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 1.512,00\n$ 1.890,00\n20%\n(0.68/ml)\nGaseosa Cola Original Coto\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola ",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/248236-coto/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Carrefour Hiper",
+      "product_display_name": "Coca-Cola Zero 354 Ml Agregar",
+      "product_price": "$ 2.940,00",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Carrefour Hiper\n\n51 min o prog.\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.999,00\n(1.72/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 999,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.97/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 999,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 2.999,00\n(1.72/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 3.",
+      "match_confidence": 0.42857142857142855,
+      "store_url": "https://www.rappi.com.ar/tiendas/240927-carrefourhiper-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Carrefour",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.000,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Carrefour\n\n21 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.97/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 999,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 999,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.75/ml)\nCoca-Cola Gaseosa Sabor Livi",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/127493-carrefour-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.512,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "9 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n29 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 1.512,00\n$ 1.890,00\n20%\n(0.68/ml)\nGaseosa Cola Original Coto\nAgregar\n0\n$ 1.400,00\n$ 2.000,00\n30%\n(3.96/ml)\nPepsi Gaseosa Black\nAgregar\n0\n$ 5.250,00\n(2.63/m",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/216249-coto-electro/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Alchemy - Turbo",
+      "product_display_name": "Coca-cola zero$ 3.500,00Coca-cola$ 3.500,00Aquarius pomelo$ 3.500,00Sprite zero$ 3.500,00Aquarius manzana$ 3.500,00Pomelada con romero$ 6.750,00Sprite$ 3.500,00Latte$ 6.300,00Milkshake chocolate 80$ 9.250,00Alfajor de maicena  coco$ 6.350,00Mocaccino$ 7.000,00Heineken$ 6.600,00Manzana, lima y pepino$ 7.150,00Chocolate caliente alchemy$ 6.300,00Manzana, remolacha y naranja$ 7.150,00Chocolate blanco caliente alchemy$ 6.300,00Americano intenso$ 6.300,00Milkshake turmeric latte by amande$ 9.250,00Combo 2 kg de helado  4 conos$ 57.000,00Cold latte$ 6.450,00Limonada de matcha$ 8.100,00Capuccino$ 6.150,00",
+      "product_price": "$ 3.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "15 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "Alchemy - Turbo15 min•$ 0,00•4.6Envío Gratis: Aplican TyCIr a la tiendaCoca-cola zero$ 3.500,00Coca-cola$ 3.500,00Aquarius pomelo$ 3.500,00Sprite zero$ 3.500,00Aquarius manzana$ 3.500,00Pomelada con romero$ 6.750,00Sprite$ 3.500,00Latte$ 6.300,00Milkshake chocolate 80$ 9.250,00Alfajor de maicena  coco$ 6.350,00Mocaccino$ 7.000,00Heineken$ 6.600,00Manzana, lima y pepino$ 7.150,00Chocolate caliente alchemy$ 6.300,00Manzana, remolacha y naranja$ 7.150,00Chocolate blanco caliente alchemy$ 6.300,00Americano intenso$ 6.300,00Milkshake turmeric latte by amande$ 9.250,00Combo 2 kg de helado  4 conos$ 57.000,00Cold latte$ 6.450,00Limonada de matcha$ 8.100,00Capuccino$ 6.150,00",
+      "match_confidence": 0.014925373134328358,
+      "store_url": "https://www.rappi.com.ar/restaurantes/225198",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Alchemy - Turbo",
+      "product_display_name": "Coca-cola",
+      "product_price": "$ 3.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "Alchemy - Turbo\n\n15 min\n\n•\n$ 0,00\n•\n4.6\nEnvío Gratis: Aplican TyC\nIr a la tienda\nCoca-cola zero\n$ 3.500,00\nCoca-cola\n$ 3.500,00\nAquarius pomelo\n$ 3.500,00\nSprite zero\n$ 3.500,00\nAquarius manzana\n$ 3.500,00\nPomelada con romero\n$ 6.750,00\nSprite\n$ 3.500,00\nLatte\n$ 6.300,00\nMilkshake chocolate 80\n$ 9.250,00\nAlfajor de maicena coco\n$ 6.350,00\nMocaccino\n$ 7.000,00\nHeineken\n$ 6.600,00\nManzana, lima y pepino\n$ 7.150,00\nChocolate caliente alchemy\n$ 6.300,00\nManzana, remolacha y naranja\n$ 7.150,00\nChocolate blanco caliente alchemy\n$ 6.300,00\nAmericano intenso\n$ 6.300,00\nMilkshake turmeric latte by amande\n$ 9.250,00\nCombo 2 kg de helado 4 conos\n$ 57.000,00\nCold latte\n$ 6.450,00\nLimonada de matcha\n$ 8.100,00\nCapuccino\n$ 6.150,00\nVer todos",
+      "match_confidence": 1,
+      "store_url": "https://www.rappi.com.ar/restaurantes/225198",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

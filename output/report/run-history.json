@@ -1,0 +1,11 @@
+{
+  "runs_compared": 1,
+  "series": [
+    {
+      "run_dir": "output/runs/2026-03-22T17-58-52-657Z",
+      "started_at": "2026-03-22T17:58:52.659Z",
+      "comparable_pairs": 2,
+      "analyzable_rows": 36
+    }
+  ]
+}

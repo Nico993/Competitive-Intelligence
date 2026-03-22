@@ -1,0 +1,124 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 109,
+  "blocks": 109,
+  "rows": 103,
+  "rowsPreview": [
+    {
+      "store_name": "Turbo",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 2.409,00",
+      "delivery_fee": "$ 1.190,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [],
+      "raw_snippet": "Turbo\n\n10 - 13 min\n\n•\n$ 1.190,00\nIr a la tienda\nAgregar\n0\n$ 2.449,00\n(6.92/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 3.209,00\n(2.57/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.469,00\n(4.12/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 1.109,00\n(4.68/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 14.694,00\n(6.92/ml)\n6 x Coca-Cola Sabor Original 354 mL\nAgregar\n0\n$ 1.129,00\n(4.77/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 3.269,00\n(2.62/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 ",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/184923-turbo/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Despensa",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 2.629,00",
+      "delivery_fee": "$ 1.190,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [],
+      "raw_snippet": "La Despensa\n\n10 - 13 min\n\n•\n$ 1.190,00\nIr a la tienda\nAgregar\n0\n$ 3.209,00\n(2.57/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.449,00\n(6.92/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.109,00\n(4.68/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.469,00\n(4.12/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 1.129,00\n(4.77/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 3.269,00\n(2.62/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 14.694,00\n(6.92/ml)\n6 x Coca-Cola Sabor Origina",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/220672-turbo-express-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 3.250,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n36 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 1.512,00\n$ 1.890,00\n20%\n(0.68/ml)\nGaseosa Cola Original Coto\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/167257-coto-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Open Market",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.530,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Open Market\n\n25 - 45 min\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(2.94/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 4.500,00\n$ 7.500,00\n40%\n(2/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.896,00\n$ 2.400,00\n21%\n(5.36/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.733,00\n$ 6.300,00\n9%\n(3.28/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 1.896,00\n$ 2.400,00\n21%\n(5.36/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 5.733,00\n$ 6.300,00\n9%\n(3.28/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(2.94/ml)\nCoca Cola Zero\nAgregar\n0\n$ 1.530,00\n$ 1.800,00\n15%\n(3.06/ml)\n7 Up Refresco Gaseoso con Sabor Lima Limón sin Azúcar\nAgregar\n0\n$ 2.200,00\n$ 2.500,00\n12%\n(1.47/ml)\n7 Up Bebida Gaseosa Sabor a Lima Limón\nAgregar\n0\n$ 1.800,00\n(3.60/ml)\nPepsi Bebida Gaseosa Bl",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/216808-openmarket/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Open 25",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.760,00",
+      "delivery_fee": "$ 1.790,00",
+      "service_fee": null,
+      "eta_range": "2 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Open 25\n\n22 - 42 min\n\n•\n$ 1.790,00\nIr a la tienda\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(2.94/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 4.500,00\n$ 7.500,00\n40%\n(2/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 5.733,00\n$ 6.300,00\n9%\n(3.28/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.733,00\n$ 6.300,00\n9%\n(3.28/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(3.52/ml)\nFanta Naranja 500 Ml\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(2.94/ml)\nCoca Cola Zero\nAgregar\n0\n$ 1.760,00\n$ 2.200,00\n20%\n(3.52/ml)\nSprite Lima-Limón\nAgregar\n0\n$ 2.225,00\n$ 2.500,00\n11%\n(1.49/ml)\nPepsi Bebida Gaseosa Sabor Cola\nAgregar\n0\n$ 2.200,00\n$ 2.500,00\n12%\n(1.47/ml)\n7 Up Bebida Gaseosa Sabor a Lima Limón\nAgregar\n0\n$ 1.530,00\n$ 1.800,00\n15%\n(3.06/ml)\n7 Up Refresco Gaseoso con Sabor Lima Limón sin Az",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/227461-open25/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Carrefour",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.000,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Carrefour\n\n36 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.97/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 999,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.75/ml)\nCoca-Cola Gaseosa Sabor Liviano\nAgregar\n0\n$ 2.590,00\n$ 3.700,00\n30%\n(0.18/ml)\nGaseosa Sin Azúcar Pepsi Black 1500 cc\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 4.450,00\n(2.55",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/118272-carrefour-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Santos Cafe Brunch 1",
+      "product_display_name": "Gatorade 500ml$ 5.000,00Coca cola 500ml$ 3.500,00Agua 500ml$ 3.500,00Exprimido de naranja 500ml + tostado$ 13.000,00Agua C/ Gas 500ml$ 3.000,00Exprimido naranja 350ml$ 6.000,00Agua saborizada 500ml$ 3.500,00Licuado de fruta con leche 350ml$ 7.500,00Licuado de fruta al agua 500ml$ 7.000,00Cafe Molido 500 gr$ 30.000,00Cafe Molido 250 gr$ 19.000,00Frappuccino 350ml$ 12.000,00Caramel macchiatto$ 5.500,00Limonada 350ml$ 7.000,00Vanilla Latte$ 4.000,00Affogato al cafe$ 9.000,00Mocha$ 5.500,00Limonada 350ml + Arabe Jamon y Queso$ 12.000,00Lata cerveza 473ml$ 4.000,00Frape Ice Tea de Frutos Rojos 350ml$ 5.500,00Espresso tonic$ 8.000,00",
+      "product_price": "$ 5.000,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "2 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "Santos Cafe Brunch 12 min•$ 0,00•4.9Envío Gratis: Aplican TyCIr a la tiendaGatorade 500ml$ 5.000,00Coca cola 500ml$ 3.500,00Agua 500ml$ 3.500,00Exprimido de naranja 500ml + tostado$ 13.000,00Agua C/ Gas 500ml$ 3.000,00Exprimido naranja 350ml$ 6.000,00Agua saborizada 500ml$ 3.500,00Licuado de fruta con leche 350ml$ 7.500,00Licuado de fruta al agua 500ml$ 7.000,00Cafe Molido 500 gr$ 30.000,00Cafe Molido 250 gr$ 19.000,00Frappuccino 350ml$ 12.000,00Caramel macchiatto$ 5.500,00Limonada 350ml$ 7.000,00Vanilla Latte$ 4.000,00Affogato al cafe$ 9.000,00Mocha$ 5.500,00Limonada 350ml + Arabe Jamon y Queso$ 12.000,00Lata cerveza 473ml$ 4.000,00Frape Ice Tea de Frutos Rojos 350ml$ 5.500,00Espresso tonic$ 8.000,00",
+      "match_confidence": 0.014173228346456693,
+      "store_url": "https://www.rappi.com.ar/restaurantes/213800",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Santos Cafe Brunch",
+      "product_display_name": "Coca cola 500ml",
+      "product_price": "$ 3.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "2 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "Santos Cafe Brunch\n\n12 min\n\n•\n$ 0,00\n•\n4.9\nEnvío Gratis: Aplican TyC\nIr a la tienda\nGatorade 500ml\n$ 5.000,00\nCoca cola 500ml\n$ 3.500,00\nAgua 500ml\n$ 3.500,00\nExprimido de naranja 500ml + tostado\n$ 13.000,00\nAgua C/ Gas 500ml\n$ 3.000,00\nExprimido naranja 350ml\n$ 6.000,00\nAgua saborizada 500ml\n$ 3.500,00\nLicuado de fruta con leche 350ml\n$ 7.500,00\nLicuado de fruta al agua 500ml\n$ 7.000,00\nCafe Molido 500 gr\n$ 30.000,00\nCafe Molido 250 gr\n$ 19.000,00\nFrappuccino 350ml\n$ 12.000,00\nCaramel macchiatto\n$ 5.500,00\nLimonada 350ml\n$ 7.000,00\nVanilla Latte\n$ 4.000,00\nAffogato al cafe\n$ 9.000,00\nMocha\n$ 5.500,00\nLimonada 350ml + Arabe Jamon y Queso\n$ 12.000,00\nLata cerveza 473ml\n$ 4.000,00\nFrape Ice Tea de Frutos Rojos 350ml\n$ 5.500,00\nEspresso tonic\n$ 8.000,00\nVer todos",
+      "match_confidence": 0.6,
+      "store_url": "https://www.rappi.com.ar/restaurantes/213800",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

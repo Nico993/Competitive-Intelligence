@@ -1,0 +1,25 @@
+{
+  "name": "competitive-intelligence-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scraping competitivo Rappi + Uber Eats (Argentina)",
+  "main": "src/index.js",
+  "scripts": {
+    "scrape": "node src/index.js",
+    "report": "node scripts/generate-report.js",
+    "analyze": "node scripts/analyze-run.mjs",
+    "analyze:compare": "node scripts/analyze-run.mjs --compare-runs --compare-only",
+    "insights": "node scripts/generate-insights.mjs",
+    "insights:offline": "node scripts/generate-insights.mjs --offline",
+    "dashboard:dev": "npm run dev --prefix dashboard",
+    "dashboard:build": "npm run build --prefix dashboard"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "playwright": "^1.49.1"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 54,
+  "blocks": 54,
+  "rows": 42,
+  "rowsPreview": [
+    {
+      "store_name": "Burger King - Bulnes",
+      "product_display_name": "<img alt=\"Nuggets X10 + papas regulares\" src=\"https://images.rappi.com.ar/products/f5513420-96f5-40fd-b1d9-e44648296660.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>Nuggets X10 + papas regulares$ 13.499,85$ 20.769,0035%30  Nuggets rebozados$ 17.900,00Nuggets Vegetales x10$ 9.900,00Combo King Vegetal$ 18.200,00Combo King de Pollo  $ 18.200,00<img alt=\"Combo Nuggets Vegetal x20\" src=\"https://images.rappi.com.ar/products/f4e36a6a-ae00-401d-a5ac-f3dbc504e2f9.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Nuggets Vegetal x20$ 21.900,00<img alt=\"Combo Cajita nuggets x4\" src=\"https://images.rappi.com.ar/products/0342058f-ea62-430d-8500-7a84d75c453b.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Cajita nuggets x4$ 15.100,00Combo  Whopper Vegetal Guacamole$ 21.300,00Combo Whopper + Franui$ 22.500,00Combo Cajita Nuggets Vegetales x 4$ 15.100,00Combo Bacon King Pollo$ 22.500,00",
+      "product_price": "$ 13.499,85",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "12 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Bulnes12 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tienda<img alt=\"Nuggets X10 + papas regulares\" src=\"https://images.rappi.com.ar/products/f5513420-96f5-40fd-b1d9-e44648296660.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>Nuggets X10 + papas regulares$ 13.499,85$ 20.769,0035%30  Nuggets rebozados$ 17.900,00Nuggets Vegetales x10$ 9.900,00Combo King Vegetal$ 18.200,00Combo King de Pollo  $ 18.200,00<img alt=\"Combo Nuggets Vegetal x20\" src=\"https://images.rappi.com.ar/products/f4e36a6a-ae00-401d-a5ac-f3",
+      "match_confidence": 0.004018369690011481,
+      "store_url": "https://www.rappi.com.ar/restaurantes/124968",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Burger King - Bulnes",
+      "product_display_name": "30 Nuggets rebozados",
+      "product_price": "$ 17.900,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "2 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Bulnes\n\n12 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nNuggets X10 + papas regulares\n$ 13.499,85$ 20.769,00\n35%\n30 Nuggets rebozados\n$ 17.900,00\nNuggets Vegetales x10\n$ 9.900,00\nCombo King Vegetal\n$ 18.200,00\nCombo King de Pollo\n$ 18.200,00\nCombo Nuggets Vegetal x20\n$ 21.900,00\nCombo Cajita nuggets x4\n$ 15.100,00\nCombo Whopper Vegetal Guacamole\n$ 21.300,00\nCombo Whopper + Franui\n$ 22.500,00\nCombo Cajita Nuggets Vegetales x 4\n$ 15.100,00\nCombo Bacon King Pollo\n$ 22.500,00\nVer todos",
+      "match_confidence": 0.35,
+      "store_url": "https://www.rappi.com.ar/restaurantes/124968",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Burger King - Bulnes - Turbo",
+      "product_display_name": "<img alt=\"Nuggets x 10\" src=\"https://images.rappi.com.ar/products/49e660dd-8092-4c43-97b0-534878adca20.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Nuggets x 10$ 9.900,00<img alt=\"Combo Nuggets x10\" src=\"https://images.rappi.com.ar/products/317e15f5-417a-4af1-aabf-30f400602063.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Nuggets x10$ 19.900,002 Doble Cheese Onion + 2 Papas Regulares$ 26.284,00Combo Whopper con Queso$ 21.200,00<img alt=\"Balde Nuggets \" src=\"https://images.rappi.com.ar/products/64afcb8e-2664-49c4-865d-39cda92bf7a8.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Balde Nuggets $ 17.900,002 Doble Carne Doble Queso + Box de Papas$ 28.570,00<img alt=\"Nuggets Vegetales x10\" src=\"https://images.rappi.com.ar/products/8cb07b57-3167-410b-942c-e92e19d9adbb.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Nuggets Vegetales x10$ 9.900,00Combo Triple Onion Cheddar$ 15.000,00Combo  Whopper Vegetal Guacamole$ 12.780,00$ 21.300,0040%Combo King de Pollo  $ 18.200,00<img alt=\"Combo King Vegetal\" src=\"https://images.rappi.com.ar/products/73be2fd7-2fff-47ea-b39f-810e590aeb16.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo King Vegetal$ 18.200,00Combo King de Pollo Frances$ 19.799,00<img alt=\"Combo Nuggets Vegetal x20\" src=\"https://images.rappi.com.ar/products/f4e36a6a-ae00-401d-a5ac-f3dbc504e2f9.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Nuggets Vegetal x20$ 21.900,00Combo  Whopper Vegetal Doble $ 20.200,00Combo Bacon King XL Doble $ 26.500,00Baguetin Fresh + Gaseosa $ 5.000,00<img alt=\"Combo Cajita nuggets x4\" src=\"https://images.rappi.com.ar/products/0342058f-ea62-430d-8500-7a84d75c453b.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Cajita nuggets x4$ 15.100,00Combo Whopper Vegetal $ 20.200,00<img alt=\"Combo Chicken Fries x6\" src=\"https://images.rappi.com.ar/products/bc463884-5bca-4a0b-ab1a-949f935c6362.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Chicken Fries x6$ 16.000,00<img alt=\"Combo Cajita Nuggets Vegetales x 4\" src=\"https://images.rappi.com.ar/products/5474df7b-a479-4fb8-a2f5-233a67252048.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Cajita Nuggets Vegetales x 4$ 15.100,00",
+      "product_price": "$ 9.900,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "15 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Bulnes - Turbo15 min•$ 0,00•4.8Envío Gratis: Aplican TyCIr a la tienda<img alt=\"Nuggets x 10\" src=\"https://images.rappi.com.ar/products/49e660dd-8092-4c43-97b0-534878adca20.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Nuggets x 10$ 9.900,00<img alt=\"Combo Nuggets x10\" src=\"https://images.rappi.com.ar/products/317e15f5-417a-4af1-aabf-30f400602063.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;p",
+      "match_confidence": 0.001472444257467396,
+      "store_url": "https://www.rappi.com.ar/restaurantes/226439",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Burger King - Bulnes - Turbo",
+      "product_display_name": "Nuggets x 10",
+      "product_price": "$ 9.900,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Bulnes - Turbo\n\n15 min\n\n•\n$ 0,00\n•\n4.8\nEnvío Gratis: Aplican TyC\nIr a la tienda\nNuggets x 10\n$ 9.900,00\nCombo Nuggets x10\n$ 19.900,00\n2 Doble Cheese Onion + 2 Papas Regulares\n$ 26.284,00\nCombo Whopper con Queso\n$ 21.200,00\nBalde Nuggets\n$ 17.900,00\n2 Doble Carne Doble Queso + Box de Papas\n$ 28.570,00\nNuggets Vegetales x10\n$ 9.900,00\nCombo Triple Onion Cheddar\n$ 15.000,00\nCombo Whopper Vegetal Guacamole\n$ 12.780,00$ 21.300,00\n40%\nCombo King de Pollo\n$ 18.200,00\nCombo King Vegetal\n$ 18.200,00\nCombo King de Pollo Frances\n$ 19.799,00\nCombo Nuggets Vegetal x20\n$ 21.900,00\nCombo Whopper Vegetal Doble\n$ 20.200,00\nCombo Bacon King XL Doble\n$ 26.500,00\nBaguetin Fresh + Gaseosa\n$ 5.000,00\nCombo Cajita nuggets x4\n$ 15.100,00\nCombo Whopper Vegetal\n$ 20.200,00\nCombo Chicken Fries x6\n$ 16.",
+      "match_confidence": 0.5833333333333334,
+      "store_url": "https://www.rappi.com.ar/restaurantes/226439",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Milanga And Co Turbo - Av. Santa Fe 1",
+      "product_display_name": "Clásico con Queso Junior + Papas$ 8.998,99$ 13.200,0032%Cheddar Argento Junior + Papas$ 8.619,00$ 13.600,0037%Sándwich Clásico + Papas Fritas$ 13.200,00$ 22.000,0040%Sándwich Clásico + Papas$ 13.200,00$ 22.000,0040%Nuggets X 10$ 9.200,00Sándwich Americana + Papas$ 22.900,002 Sándwiches Americano Melt Jr + Papas$ 23.489,98$ 27.900,0016%Sándwich Veggie + Papas$ 16.046,00$ 22.600,0029%Balde de Nuggets$ 15.900,002 Sándwiches Clásicos + Papas$ 30.148,40$ 44.000,0031%Americano Melt Junior + Papas$ 11.800,00Copa Tiramisú$ 5.700,00Copa Milanga$ 5.200,00Tostado Bacon y Huevo$ 6.700,00Picada de Pollo con Muzza$ 14.400,00Medialuna$ 1.200,00Muffin de Chocolate$ 4.600,00Combo Napolitano Junior$ 15.700,00Combo Clasico Quilmes$ 19.875,00$ 26.500,0025%Bade Nuggets + 2 Bebidas$ 22.900,00",
+      "product_price": "$ 8.998,99",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Milanga And Co Turbo - Av. Santa Fe 15 min•$ 0,00•4.9Envío Gratis: Aplican TyCIr a la tiendaClásico con Queso Junior + Papas$ 8.998,99$ 13.200,0032%Cheddar Argento Junior + Papas$ 8.619,00$ 13.600,0037%Sándwich Clásico + Papas Fritas$ 13.200,00$ 22.000,0040%Sándwich Clásico + Papas$ 13.200,00$ 22.000,0040%Nuggets X 10$ 9.200,00Sándwich Americana + Papas$ 22.900,002 Sándwiches Americano Melt Jr + Papas$ 23.489,98$ 27.900,0016%Sándwich Veggie + Papas$ 16.046,00$ 22.600,0029%Balde de Nuggets$ 15.900,002 Sándwiches Clásicos + Papas$ 30.148,40$ 44.000,0031%Americano Melt Junior + Papas$ 11.800,00Copa Tiramisú$ 5.700,00Copa Milanga$ 5.200,00Tostado Bacon y Huevo$ 6.700,00Picada de Pollo con Muzza$ 14.400,00Medialuna$ 1.200,00Muffin de Chocolate$ 4.600,00Combo Napolitano Junior$ 15.700,00Combo Cl",
+      "match_confidence": 0.008962868117797696,
+      "store_url": "https://www.rappi.com.ar/restaurantes/219533",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Milanga And Co Turbo - Av. Santa Fe",
+      "product_display_name": "Nuggets X 10",
+      "product_price": "$ 9.200,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "5 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Milanga And Co Turbo - Av. Santa Fe\n\n15 min\n\n•\n$ 0,00\n•\n4.9\nEnvío Gratis: Aplican TyC\nIr a la tienda\nClásico con Queso Junior + Papas\n$ 8.998,99$ 13.200,00\n32%\nCheddar Argento Junior + Papas\n$ 8.619,00$ 13.600,00\n37%\nSándwich Clásico + Papas Fritas\n$ 13.200,00$ 22.000,00\n40%\nSándwich Clásico + Papas\n$ 13.200,00$ 22.000,00\n40%\nNuggets X 10\n$ 9.200,00\nSándwich Americana + Papas\n$ 22.900,00\n2 Sándwiches Americano Melt Jr + Papas\n$ 23.489,98$ 27.900,00\n16%\nSándwich Veggie + Papas\n$ 16.046,00$ 22.600,00\n29%\nBalde de Nuggets\n$ 15.900,00\n2 Sándwiches Clásicos + Papas\n$ 30.148,40$ 44.000,00\n31%\nAmericano Melt Junior + Papas\n$ 11.800,00\nCopa Tiramisú\n$ 5.700,00\nCopa Milanga\n$ 5.200,00\nTostado Bacon y Huevo\n$ 6.700,00\nPicada de Pollo con Muzza\n$ 14.400,00\nMedialuna\n$ 1.200,00\nMuffin de Chocolate\n$ 4",
+      "match_confidence": 0.5833333333333334,
+      "store_url": "https://www.rappi.com.ar/restaurantes/219533",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Wok Al Fuego. - Abasto",
+      "product_display_name": "Wok de Pollo Crispy$ 8.415,00$ 15.300,0045%Yakimeshi de Pollo + 3 Empanaditas Chinas$ 12.776,25$ 17.035,0025%Wok de Pollo$ 7.714,50$ 10.286,0025%Wok de Pollo Chico + 2 Arrolladitos$ 10.398,00$ 13.864,0025%Nuggets X 10$ 7.850,00Yakimeshi de Pollo$ 7.616,25$ 10.155,0025%Nuggets X 5$ 4.000,00Empanaditas Chinas de Carne$ 5.000,00Wok de Pollo Crispy Chico$ 4.800,00Wok Fideos de Pollo$ 7.950,00Wok de Penne Rigate de Pollo$ 11.872,50$ 15.830,0025%Penne Rigate de Pollo Chico$ 7.450,00Empanaditas Chinas de Verdura$ 5.000,00Salsa Agridulce$ 650,00Yakimeshi Chico de Pollo$ 6.820,00$ 12.400,0045%2 Yakimeshi Pollo Chico + 4 Arrolladitos$ 16.050,00Yakimeshi Veggie$ 8.580,00Tenders Teriyaki X4$ 8.600,00Wok Chico de Pollo + Jugo$ 15.120,00Tenders Barbacoa X4$ 8.100,00Penne Rigate Veggie$ 9.384,00Salsa Teriyaki$ 650,00",
+      "product_price": "$ 8.415,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "30 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Wok Al Fuego. - Abasto30 min•$ 0,00•4.8Envío Gratis: Aplican TyCIr a la tiendaWok de Pollo Crispy$ 8.415,00$ 15.300,0045%Yakimeshi de Pollo + 3 Empanaditas Chinas$ 12.776,25$ 17.035,0025%Wok de Pollo$ 7.714,50$ 10.286,0025%Wok de Pollo Chico + 2 Arrolladitos$ 10.398,00$ 13.864,0025%Nuggets X 10$ 7.850,00Yakimeshi de Pollo$ 7.616,25$ 10.155,0025%Nuggets X 5$ 4.000,00Empanaditas Chinas de Carne$ 5.000,00Wok de Pollo Crispy Chico$ 4.800,00Wok Fideos de Pollo$ 7.950,00Wok de Penne Rigate de Pollo$ 11.872,50$ 15.830,0025%Penne Rigate de Pollo Chico$ 7.450,00Empanaditas Chinas de Verdura$ 5.000,00Salsa Agridulce$ 650,00Yakimeshi Chico de Pollo$ 6.820,00$ 12.400,0045%2 Yakimeshi Pollo Chico + 4 Arrolladitos$ 16.050,00Yakimeshi Veggie$ 8.580,00Tenders Teriyaki X4$ 8.600,00Wok Chico de Pollo + Jugo",
+      "match_confidence": 0.008610086100861008,
+      "store_url": "https://www.rappi.com.ar/restaurantes/234543",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Wok Al Fuego. - Abasto",
+      "product_display_name": "Nuggets X 5",
+      "product_price": "$ 4.000,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "0 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Wok Al Fuego. - Abasto\n\n30 min\n\n•\n$ 0,00\n•\n4.8\nEnvío Gratis: Aplican TyC\nIr a la tienda\nWok de Pollo Crispy\n$ 8.415,00$ 15.300,00\n45%\nYakimeshi de Pollo + 3 Empanaditas Chinas\n$ 12.776,25$ 17.035,00\n25%\nWok de Pollo\n$ 7.714,50$ 10.286,00\n25%\nWok de Pollo Chico + 2 Arrolladitos\n$ 10.398,00$ 13.864,00\n25%\nNuggets X 10\n$ 7.850,00\nYakimeshi de Pollo\n$ 7.616,25$ 10.155,00\n25%\nNuggets X 5\n$ 4.000,00\nEmpanaditas Chinas de Carne\n$ 5.000,00\nWok de Pollo Crispy Chico\n$ 4.800,00\nWok Fideos de Pollo\n$ 7.950,00\nWok de Penne Rigate de Pollo\n$ 11.872,50$ 15.830,00\n25%\nPenne Rigate de Pollo Chico\n$ 7.450,00\nEmpanaditas Chinas de Verdura\n$ 5.000,00\nSalsa Agridulce\n$ 650,00\nYakimeshi Chico de Pollo\n$ 6.820,00$ 12.400,00\n45%\n2 Yakimeshi Pollo Chico + 4 Arrolladitos\n$ 16.050,00\nYakimeshi Veggie\n$ 8.580,00\nTen",
+      "match_confidence": 0.6363636363636364,
+      "store_url": "https://www.rappi.com.ar/restaurantes/234543",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

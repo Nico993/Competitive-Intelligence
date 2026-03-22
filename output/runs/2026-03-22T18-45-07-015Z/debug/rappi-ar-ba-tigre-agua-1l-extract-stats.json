@@ -1,0 +1,128 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 32,
+  "blocks": 32,
+  "rows": 31,
+  "rowsPreview": [
+    {
+      "store_name": "Turbo",
+      "product_display_name": "Agua Glaciar Sin Gas 500 cc Agregar",
+      "product_price": "$ 1.949,00",
+      "delivery_fee": "$ 990,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Turbo\n\n18 - 21 min\n\n•\n$ 990,00\nIr a la tienda\nAgregar\n0\n$ 5.229,00\n(0.88/ml)\nBenedictino Agua Mineralizada Sin Gas Bidón\nAgregar\n0\n$ 1.859,00\n(3.72/ml)\nAgua Eco de Los Andes Sin Gas 500 cc\nAgregar\n0\n$ 2.559,00\n(1.14/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 3.299,00\n(1.65/ml)\nAgua Glaciar Sin Gas 2000 cc\nAgregar\n0\n$ 2.421,65\n$ 2.849,00\n15%\n(1.62/ml)\nVillavicencio Agua Mineral Sin Gas 1.5L\nAgregar\n0\n$ 5.189,00\n(0.84/ml)\nVilla Del Sur Agua Mineral Sin Gas\nAgregar\n0\n$ 2.509,00\n(1.12/ml)\nVilla Del Sur Agua Mineral Natural Sin Gas\nAgregar\n0\n$ 3.149,00\n(1.58/ml)\nVillavicencio Agua Mineral Sin Gas\nAgregar\n0\n$ 2.539,00\n(1.70/ml)\nSmartwater Sin Gas 1,5 Lt\nAgregar\n0\n$ 1.579,00\n(0.79/ml)\nCellier Agua Mineralizada sin Gas\nAgregar\n0\n$ 2.566,15\n$ 3.019,00\n15%\n(1.72/ml)\nVillavicencio Agua ",
+      "match_confidence": 0.14814814814814814,
+      "store_url": "https://www.rappi.com.ar/tiendas/184924-turbo/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Disco",
+      "product_display_name": "Agua Glaciar Sin Gas 500 cc Agregar",
+      "product_price": "$ 1.467,00",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Disco\n\n41 min o prog.\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 1.184,00\n$ 2.368,00\n50%\n(1.19/ml)\nAgua Eco de Los Andes Sin Gas 1000 cc\nAgregar\n0\n$ 1.459,00\n$ 2.918,00\n50%\n(0.73/ml)\nAgua Eco de Los Andes Sin Gas 2000 cc\nAgregar\n0\n$ 1.251,50\n$ 2.503,00\n50%\n(0.56/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 820,50\n$ 1.641,00\n50%\n(1.65/ml)\nAgua Nestlé Pureza Vital Sin Gas 500 cc\nAgregar\n0\n$ 1.059,00\n$ 2.118,00\n50%\n(0.71/ml)\nAgua Nestlé Pureza Vital Sin Gas 1500 cc\nAgregar\n0\n$ 2.415,00\n$ 4.830,00\n50%\n(0.39/ml)\nVilla Del Sur Agua Mineral Sin Gas\nAgregar\n0\n$ 1.250,00\n$ 2.500,00\n50%\n(0.56/ml)\nVilla Del Sur Agua Mineral Natural Sin Gas\nAgregar\n0\n$ 4.182,00\n$ 8.364,00\n50%\n(0.67/ml)\nAgua Glaciar Sin Gas 6300 cc\nAgregar\n0\n$ 1.375,00\n$ 2.750,00\n50%\n(0.92/ml)\nVillavicencio Agua Mineral Sin G",
+      "match_confidence": 0.14814814814814814,
+      "store_url": "https://www.rappi.com.ar/tiendas/224860-disco/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Agua Ko X 500 Ml Agregar",
+      "product_price": "$ 1.360,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n31 min o prog.\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 1.628,25\n$ 2.505,00\n35%\n(0.73/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 1.920,00\n$ 3.200,00\n40%\n(0.96/ml)\nAgua Glaciar Sin Gas 2000 cc\nAgregar\n0\n$ 1.378,00\n$ 2.120,00\n35%\n(0.92/ml)\nAgua Nestlé Pureza Vital Sin Gas 1500 cc\nAgregar\n0\n$ 1.066,00\n$ 1.640,00\n35%\n(2.14/ml)\nAgua Nestlé Pureza Vital Sin Gas 500 cc\nAgregar\n0\n$ 923,00\n$ 1.420,00\n35%\n(0.47/ml)\nCellier Agua Mineralizada sin Gas\nAgregar\n0\n$ 3.055,00\n$ 4.700,00\n35%\n(0.51/ml)\nBenedictino Agua Mineralizada Sin Gas Bidón\nAgregar\n0\n$ 1.651,00\n$ 2.540,00\n35%\n(1.11/ml)\nVillavicencio Agua Mineral Sin Gas 1.5L\nAgregar\n0\n$ 1.033,50\n$ 1.590,00\n35%\n(0.52/ml)\nCellier Agua Mineralizada con Gas\nAgregar\n0\n$ 3.986,50\n$ 4.690,00\n15%\n(0.65/ml)\nVilla Del Sur Agua Mineral Sin Gas\n",
+      "match_confidence": 0.25,
+      "store_url": "https://www.rappi.com.ar/tiendas/248238-coto/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Carrefour",
+      "product_display_name": "Brio Agua Sin Gas Agregar",
+      "product_price": "$ 1.940,00",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Carrefour\n\n36 min o prog.\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 1.377,35\n$ 2.119,00\n35%\n(0.92/ml)\nAgua Nestlé Pureza Vital Sin Gas 1500 cc\nAgregar\n0\n$ 1.624,35\n$ 2.499,00\n35%\n(0.73/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 2.080,00\n$ 3.200,00\n35%\n(1.04/ml)\nAgua Glaciar Sin Gas 2000 cc\nAgregar\n0\n$ 1.266,85\n$ 1.949,00\n35%\n(2.54/ml)\nAgua Glaciar Sin Gas 500 cc\nAgregar\n0\n$ 1.845,35\n$ 2.839,00\n35%\n(1.23/ml)\nAgua Glaciar Sin Gas 1500 cc\nAgregar\n0\n$ 1.975,35\n$ 3.039,00\n35%\n(1.32/ml)\nAgua Glaciar Con Gas 1500 cc\nAgregar\n0\n$ 1.170,00\n$ 1.800,00\n35%\n(2.34/ml)\nAgua Eco de Los Andes Sin Gas 500 cc\nAgregar\n0\n$ 1.539,85\n$ 2.369,00\n35%\n(1.54/ml)\nAgua Eco de Los Andes Sin Gas 1000 cc\nAgregar\n0\n$ 1.247,35\n$ 1.919,00\n35%\n(2.50/ml)\nAgua Eco de Los Andes Con Gas 500 cc\nAgregar\n0\n$ 1.897,35\n$",
+      "match_confidence": 0.23529411764705882,
+      "store_url": "https://www.rappi.com.ar/tiendas/250891-carrefour/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Jumbo",
+      "product_display_name": "Agua Ko X 500 Ml Agregar",
+      "product_price": "$ 1.360,00",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Jumbo\n\n61 min o prog.\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 2.503,00\n(1.12/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 2.842,00\n$ 4.060,00\n30%\n(0.46/ml)\nAgua Mineral Cuisine & Co\nAgregar\n0\n$ 8.364,00\n(1.33/ml)\nAgua Glaciar Sin Gas 6300 cc\nAgregar\n0\n$ 2.839,00\n(1.90/ml)\nAgua Glaciar Sin Gas 1500 cc\nAgregar\n0\n$ 2.540,00\n(1.70/ml)\nVillavicencio Agua Mineral Sin Gas 1.5L\nAgregar\n0\n$ 1.641,00\n(3.29/ml)\nAgua Nestlé Pureza Vital Sin Gas 500 cc\nAgregar\n0\n$ 4.830,00\n(0.78/ml)\nVilla Del Sur Agua Mineral Sin Gas\nAgregar\n0\n$ 2.118,00\n(1.42/ml)\nAgua Nestlé Pureza Vital Sin Gas 1500 cc\nAgregar\n0\n$ 2.300,00\n(1.03/ml)\nVilla Del Sur Agua Mineral Natural Sin Gas\nAgregar\n0\n$ 1.940,00\n(1.18/ml)\nVilla del Sur Agua Mineral sin Gas\nAgregar\n0\n$ 1.530,00\n$ 1.800,00\n15%\n(2.59/ml)\nSmartwater Con Gas ",
+      "match_confidence": 0.25,
+      "store_url": "https://www.rappi.com.ar/tiendas/112241-jumbo-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Despensa",
+      "product_display_name": "Cellier Agua Sin Gas Agregar",
+      "product_price": "$ 1.949,00",
+      "delivery_fee": "$ 990,00",
+      "service_fee": null,
+      "eta_range": "0 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "La Despensa\n\n17 - 20 min\n\n•\n$ 990,00\nIr a la tienda\nAgregar\n0\n$ 2.559,00\n(1.14/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 3.299,00\n(1.65/ml)\nAgua Glaciar Sin Gas 2000 cc\nAgregar\n0\n$ 2.421,65\n$ 2.849,00\n15%\n(1.62/ml)\nVillavicencio Agua Mineral Sin Gas 1.5L\nAgregar\n0\n$ 5.229,00\n(0.88/ml)\nBenedictino Agua Mineralizada Sin Gas Bidón\nAgregar\n0\n$ 5.189,00\n(0.84/ml)\nVilla Del Sur Agua Mineral Sin Gas\nAgregar\n0\n$ 2.509,00\n(1.12/ml)\nVilla Del Sur Agua Mineral Natural Sin Gas\nAgregar\n0\n$ 3.149,00\n(1.58/ml)\nVillavicencio Agua Mineral Sin Gas\nAgregar\n0\n$ 2.539,00\n(1.70/ml)\nSmartwater Sin Gas 1,5 Lt\nAgregar\n0\n$ 1.579,00\n(0.79/ml)\nCellier Agua Mineralizada sin Gas\nAgregar\n0\n$ 2.566,15\n$ 3.019,00\n15%\n(1.72/ml)\nVillavicencio Agua Natural Con Gas\nAgregar\n0\n$ 1.989,00\n(3.98/ml)\nAgua Glaciar Si",
+      "match_confidence": 0.2,
+      "store_url": "https://www.rappi.com.ar/tiendas/220671-turbo-express-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Makro",
+      "product_display_name": "Agua Sin Gas Aro Agregar",
+      "product_price": "$ 4.195,65",
+      "delivery_fee": "$ 2.390,00",
+      "service_fee": null,
+      "eta_range": null,
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Makro\n\nLun, 8 AM\n\n•\n$ 2.390,00\nIr a la tienda\nAgregar\n0\n$ 1.000,00\n(0.50/ml)\nCellier Agua Mineralizada sin Gas\nAgregar\n0\n$ 1.818,75\n(0.91/ml)\nAgua Glaciar Sin Gas 2000 cc\nAgregar\n0\n$ 2.899,00\n$ 3.720,00\n22%\n(0.45/ml)\nAgua Mineral Sin Gas Aro\nAgregar\n0\n$ 1.000,00\n$ 1.063,00\n6%\n(0.50/ml)\nCellier Agua Mineralizada con Gas\nAgregar\n0\n$ 2.510,87\n(1.12/ml)\nAgua Nestlé Pureza Vital Sin Gas 2250 cc\nAgregar\n0\n$ 1.177,39\n(0.59/ml)\nAgua Sin Gas Aro\nAgregar\n0\n$ 4.195,65\n(0.68/ml)\nVilla Del Sur Agua Mineral Sin Gas\nAgregar\n0\n$ 1.716,32\n(1.15/ml)\nAgua Glaciar Sin Gas 1500 cc\nAgregar\n0\n$ 5.046,05\n(0.81/ml)\nAgua Glaciar Sin Gas 6300 cc\nAgregar\n0\n$ 549,00\n$ 583,00\n6%\n(0.92/ml)\nAgua Mineral Sin Gas Aro\nAgregar\n0\n$ 892,61\n(1.79/ml)\nAgua Eco de Los Andes Sin Gas 500 cc\nAgregar\n0\n$ 6.665,36\n(1.06/ml)\nAgua Nestl",
+      "match_confidence": 0.25,
+      "store_url": "https://www.rappi.com.ar/tiendas/215122-makro-mt-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Carrefour Express",
+      "product_display_name": "Villavicencio Agua con Gas Agregar",
+      "product_price": "$ 2.030,00",
+      "delivery_fee": "$ 2.190,00",
+      "service_fee": null,
+      "eta_range": null,
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Carrefour Express\n\nLun, 7 AM\n\n•\n$ 2.190,00\nIr a la tienda\nAgregar\n0\n$ 2.080,00\n$ 3.200,00\n35%\n(1.04/ml)\nAgua Glaciar Sin Gas 2000 cc\nAgregar\n0\n$ 1.266,85\n$ 1.949,00\n35%\n(2.54/ml)\nAgua Glaciar Sin Gas 500 cc\nAgregar\n0\n$ 1.975,35\n$ 3.039,00\n35%\n(1.32/ml)\nAgua Glaciar Con Gas 1500 cc\nAgregar\n0\n$ 1.897,35\n$ 2.919,00\n35%\n(0.95/ml)\nAgua Eco de Los Andes Sin Gas 2000 cc\nAgregar\n0\n$ 1.619,25\n$ 2.159,00\n25%\n(1.08/ml)\nBenedictino Agua Mineralizada Con Gas\nAgregar\n0\n$ 2.615,00\n(1.75/ml)\nVillavicencio Agua Mineral Sin Gas 1.5L\nAgregar\n0\n$ 1.797,25\n$ 2.765,00\n35%\n(1.20/ml)\nAgua Eco de Los Andes Con Gas 1500 cc\nAgregar\n0\n$ 2.300,00\n(1.03/ml)\nVilla Del Sur Agua Mineral Natural Sin Gas\nAgregar\n0\n$ 797,05\n$ 839,00\n5%\n(1.33/ml)\nAgua Mineralizada Bajo Sodio Classic Carrefour\nAgregar\n0\n$ 1.999,00\n(1.22/ml)\nVi",
+      "match_confidence": 0.15384615384615385,
+      "store_url": "https://www.rappi.com.ar/tiendas/250863-carrefour-express/s",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

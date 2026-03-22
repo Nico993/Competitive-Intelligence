@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "totalAnchors": 77,
+    "normalizedEmpty": 29,
+    "pathRejected": 7,
+    "dedupeSkipped": 0,
+    "noParentText": 0,
+    "cardsCollected": 41
+  },
+  "patternRejected": 41,
+  "rowsPreview": []
+}

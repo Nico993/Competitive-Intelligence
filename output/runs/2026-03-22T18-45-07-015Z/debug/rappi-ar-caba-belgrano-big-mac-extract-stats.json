@@ -1,0 +1,72 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 72,
+  "blocks": 68,
+  "rows": 4,
+  "rowsPreview": [
+    {
+      "store_name": "Mcdonald's Turbo - Ar4 Int 9 min•$ 0,00•4.8Envío Gratis: Aplican TyC",
+      "product_display_name": "Big Mac + Papas Medianas$ 11.499,95$ 14.500,0021%McCombo Mediano Grand Doble Tasty Turbo Bacon$ 19.600,00$ 24.500,0020%<img alt=\"McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/c39ea8c9-79e8-41d1-8145-810eb152f66b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>McCombo Mediano Big Mac$ 17.600,00McCombo Mediano Grand Doble Tasty$ 22.900,00McCombo Mediano Grand Feat ClubHouse Simple$ 21.900,00<img alt=\"McCombo Mediano Grand Doble McBacon\" src=\"https://images.rappi.com.ar/products/5d50b773-84ec-4070-9526-4f51a0d356c4.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>McCombo Mediano Grand Doble McBacon$ 23.200,00McPollo + Papas Pequeñas$ 12.000,00<img alt=\"20 OFF CajitaFeliz + McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/97a04ec3-4bdd-4076-bd6d-bf7b6ad73333.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>20 OFF CajitaFeliz + McCombo Mediano Big Mac$ 24.320,00$ 30.400,0020%<img alt=\"McCombo Mediano BigMac + Pileta de cheddar GRATIS\" src=\"https://images.rappi.com.ar/products/74ae90de-c1c6-4a6f-a4d8-ac894427e4aa.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano BigMac + Pileta de cheddar GRATIS$ 17.599,50$ 21.100,0017%<img alt=\"McCombo Grande Big Mac\" src=\"https://images.rappi.com.ar/products/7d09a9ed-6967-4fe8-95fb-1af9f60eb928.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Grande Big Mac$ 20.100,00McCombo Mediano Bacon Cheddar McMelt$ 21.400,00McCombo Mediano Doble Bacon Cheddar McMelt$ 22.800,00",
+      "product_price": "$ 11.499,95",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "9 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mcdonald's Turbo - Ar4 Int 9 min•$ 0,00•4.8Envío Gratis: Aplican TyCIr a la tiendaBig Mac + Papas Medianas$ 11.499,95$ 14.500,0021%McCombo Mediano Grand Doble Tasty Turbo Bacon$ 19.600,00$ 24.500,0020%<img alt=\"McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/c39ea8c9-79e8-41d1-8145-810eb152f66b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>McCombo Mediano Big Mac$ 17.600,00McCombo Mediano Grand Doble Tasty$ 22.900,00McCombo Mediano Grand Feat ClubHouse Simple$ 21.900,00<img alt=\"McCombo Mediano Grand ",
+      "match_confidence": 0.0024255024255024253,
+      "store_url": "https://www.rappi.com.ar/restaurantes/220744",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mcdonald's Turbo - Ar4 Int",
+      "product_display_name": "McCombo Grande Big Mac",
+      "product_price": "$ 20.100,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "9 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mcdonald's Turbo - Ar4 Int\n\n9 min\n\n•\n$ 0,00\n•\n4.8\nEnvío Gratis: Aplican TyC\nIr a la tienda\nBig Mac + Papas Medianas\n$ 11.499,95$ 14.500,00\n21%\nMcCombo Mediano Grand Doble Tasty Turbo Bacon\n$ 19.600,00$ 24.500,00\n20%\nMcCombo Mediano Big Mac\n$ 17.600,00\nMcCombo Mediano Grand Doble Tasty\n$ 22.900,00\nMcCombo Mediano Grand Feat ClubHouse Simple\n$ 21.900,00\nMcCombo Mediano Grand Doble McBacon\n$ 23.200,00\nMcPollo + Papas Pequeñas\n$ 12.000,00\n20 OFF CajitaFeliz + McCombo Mediano Big Mac\n$ 24.320,00$ 30.400,00\n20%\nMcCombo Mediano BigMac + Pileta de cheddar GRATIS\n$ 17.599,50$ 21.100,00\n17%\nMcCombo Grande Big Mac\n$ 20.100,00\nMcCombo Mediano Bacon Cheddar McMelt\n$ 21.400,00\nMcCombo Mediano Doble Bacon Cheddar McMelt\n$ 22.800,00\nVer todos",
+      "match_confidence": 0.3181818181818182,
+      "store_url": "https://www.rappi.com.ar/restaurantes/220744",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - AR4 int",
+      "product_display_name": "Big Mac + Papas Medianas$ 11.499,95$ 14.500,0021%McCombo Mediano Grand Doble Tasty$ 22.900,00McCombo Mediano Doble Bacon Cheddar McMelt$ 22.800,00<img alt=\"McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/c39ea8c9-79e8-41d1-8145-810eb152f66b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Big Mac$ 17.600,00McCombo Mediano Grand Doble McBacon$ 23.200,00McCombo Mediano Grand Feat ClubHouse Simple$ 21.900,00McCombo Mediano Bacon Cheddar McMelt$ 21.400,00McCombo Mediano Grand Doble Tasty Turbo Bacon$ 24.500,00<img alt=\"20 OFF CajitaFeliz + McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/97a04ec3-4bdd-4076-bd6d-bf7b6ad73333.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>20 OFF CajitaFeliz + McCombo Mediano Big Mac$ 24.320,00$ 30.400,0020%<img alt=\"McCombo Grande Big Mac\" src=\"https://images.rappi.com.ar/products/7d09a9ed-6967-4fe8-95fb-1af9f60eb928.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Grande Big Mac$ 20.100,00McCombo Mediano McCrispy Chicken Cheddar y Bacon$ 17.300,00McCombo Grande McCrispy Chicken Cheddar y Bacon$ 19.800,00<img alt=\"McCombo Mediano BigMac + Pileta de cheddar GRATIS\" src=\"https://images.rappi.com.ar/products/74ae90de-c1c6-4a6f-a4d8-ac894427e4aa.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano BigMac + Pileta de cheddar GRATIS$ 17.599,50$ 21.100,0017%",
+      "product_price": "$ 11.499,95",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "24 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - AR4 int24 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaBig Mac + Papas Medianas$ 11.499,95$ 14.500,0021%McCombo Mediano Grand Doble Tasty$ 22.900,00McCombo Mediano Doble Bacon Cheddar McMelt$ 22.800,00<img alt=\"McCombo Mediano Big Mac\" src=\"https://images.rappi.com.ar/products/c39ea8c9-79e8-41d1-8145-810eb152f66b.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>McCombo Mediano Big Mac$ 17.600,00McCombo Mediano Grand Doble McBacon$ 23.200,00McCombo Mediano Grand Feat ClubHouse Simple$ 21.",
+      "match_confidence": 0.0027755749405233942,
+      "store_url": "https://www.rappi.com.ar/restaurantes/113808",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - AR4 int",
+      "product_display_name": "McCombo Grande Big Mac",
+      "product_price": "$ 20.100,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "4 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - AR4 int\n\n24 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nBig Mac + Papas Medianas\n$ 11.499,95$ 14.500,00\n21%\nMcCombo Mediano Grand Doble Tasty\n$ 22.900,00\nMcCombo Mediano Doble Bacon Cheddar McMelt\n$ 22.800,00\nMcCombo Mediano Big Mac\n$ 17.600,00\nMcCombo Mediano Grand Doble McBacon\n$ 23.200,00\nMcCombo Mediano Grand Feat ClubHouse Simple\n$ 21.900,00\nMcCombo Mediano Bacon Cheddar McMelt\n$ 21.400,00\nMcCombo Mediano Grand Doble Tasty Turbo Bacon\n$ 24.500,00\n20 OFF CajitaFeliz + McCombo Mediano Big Mac\n$ 24.320,00$ 30.400,00\n20%\nMcCombo Grande Big Mac\n$ 20.100,00\nMcCombo Mediano McCrispy Chicken Cheddar y Bacon\n$ 17.300,00\nMcCombo Grande McCrispy Chicken Cheddar y Bacon\n$ 19.800,00\nMcCombo Mediano BigMac + Pileta de cheddar GRATIS\n$ 17.599,50$ 21.100,00\n17%\nVer todos",
+      "match_confidence": 0.3181818181818182,
+      "store_url": "https://www.rappi.com.ar/restaurantes/113808",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

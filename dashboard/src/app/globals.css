@@ -1,0 +1,763 @@
+/* Executive report — editorial dark, Rappi/Uber semantic accents */
+
+:root {
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-display: 'Fraunces', 'Georgia', serif;
+
+  --bg-deep: #07090d;
+  --bg-surface: #0e1218;
+  --bg-elevated: #151b24;
+  --bg-hover: #1c2430;
+  --border: rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(255, 255, 255, 0.12);
+
+  --text: #f1f5f9;
+  --text-muted: #94a3b8;
+  --text-subtle: #64748b;
+
+  --accent: #e8b84a;
+  --accent-dim: rgba(232, 184, 74, 0.15);
+  --accent-glow: rgba(232, 184, 74, 0.35);
+
+  --rappi: #ff441f;
+  --rappi-soft: rgba(255, 68, 31, 0.18);
+  --uber: #06c167;
+  --uber-soft: rgba(6, 193, 103, 0.16);
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+
+  --shadow-soft: 0 4px 24px rgba(0, 0, 0, 0.35);
+  --shadow-glow: 0 0 0 1px var(--border), 0 20px 50px -12px rgba(0, 0, 0, 0.45);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg-deep);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Atmospheric background */
+.body-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background:
+    radial-gradient(ellipse 120% 80% at 50% -20%, rgba(232, 184, 74, 0.08), transparent 50%),
+    radial-gradient(ellipse 80% 50% at 100% 50%, rgba(6, 193, 103, 0.04), transparent 45%),
+    radial-gradient(ellipse 60% 40% at 0% 80%, rgba(255, 68, 31, 0.05), transparent 40%),
+    var(--bg-deep);
+}
+
+.body-grain {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  opacity: 0.04;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+
+.page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 1.25rem 4rem;
+}
+
+@media (min-width: 768px) {
+  .page {
+    padding: 0 2rem 5rem;
+  }
+}
+
+/* Header */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  margin: 0 -1.25rem;
+  padding: 0.75rem 1.25rem;
+  backdrop-filter: blur(14px);
+  background: rgba(7, 9, 13, 0.72);
+  border-bottom: 1px solid var(--border);
+}
+
+@media (min-width: 768px) {
+  .app-header {
+    margin: 0 -2rem;
+    padding: 0.85rem 2rem;
+  }
+}
+
+.header-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.brand-eyebrow {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.brand-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+.nav-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.nav-pills a {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0.4rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  transition:
+    color 0.2s var(--ease-out),
+    border-color 0.2s var(--ease-out),
+    background 0.2s var(--ease-out);
+}
+
+.nav-pills a:hover {
+  color: var(--text);
+  background: var(--bg-hover);
+  border-color: var(--border);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Hero */
+.hero {
+  padding: 2.5rem 0 2rem;
+  animation: heroIn 0.7s var(--ease-out) both;
+}
+
+@keyframes heroIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-subtle);
+  margin-bottom: 0.75rem;
+}
+
+.hero-badge::before {
+  content: '';
+  width: 28px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--accent), transparent);
+  border-radius: 2px;
+}
+
+.hero h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 4vw, 2.35rem);
+  font-weight: 500;
+  line-height: 1.15;
+  margin: 0 0 0.75rem;
+  max-width: 20ch;
+}
+
+.hero-desc {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  max-width: 52ch;
+  margin: 0 0 1.5rem;
+}
+
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  font-size: 0.8rem;
+  color: var(--text-subtle);
+}
+
+.hero-meta code {
+  font-size: 0.72rem;
+  padding: 0.15rem 0.4rem;
+  border-radius: var(--radius-sm);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition:
+    transform 0.15s var(--ease-out),
+    box-shadow 0.2s var(--ease-out);
+}
+
+.btn-primary {
+  background: linear-gradient(145deg, #f0c55c, var(--accent) 55%, #c99a2e);
+  color: #1a1406;
+  box-shadow: 0 2px 16px var(--accent-glow);
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 24px var(--accent-glow);
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+.btn-ghost:hover {
+  color: var(--text);
+  border-color: var(--border-strong);
+  background: var(--bg-elevated);
+}
+
+/* Sections */
+.section {
+  scroll-margin-top: 88px;
+  margin-bottom: 1.75rem;
+  animation: sectionIn 0.55s var(--ease-out) both;
+}
+
+.section:nth-child(1) {
+  animation-delay: 0.05s;
+}
+.section:nth-child(2) {
+  animation-delay: 0.1s;
+}
+.section:nth-child(3) {
+  animation-delay: 0.14s;
+}
+.section:nth-child(4) {
+  animation-delay: 0.18s;
+}
+.section:nth-child(5) {
+  animation-delay: 0.22s;
+}
+.section:nth-child(6) {
+  animation-delay: 0.26s;
+}
+
+@keyframes sectionIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 500;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+.section-num {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin-right: 0.5rem;
+}
+
+.section-desc {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0.35rem 0 0;
+  max-width: 56ch;
+}
+
+/* Panels */
+.panel {
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  padding: 1.35rem 1.5rem;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-soft);
+  transition:
+    border-color 0.25s var(--ease-out),
+    box-shadow 0.25s var(--ease-out);
+}
+
+.panel:hover {
+  border-color: var(--border-strong);
+  box-shadow: var(--shadow-glow);
+}
+
+.panel h2,
+.panel .chart-title {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 0 0 0.35rem;
+}
+
+.panel .chart-sub {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin: 0 0 1.25rem;
+}
+
+/* KPI grid */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+
+@media (min-width: 900px) {
+  .kpi-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.kpi {
+  position: relative;
+  padding: 1.1rem 1.15rem;
+  border-radius: var(--radius-md);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.kpi::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), transparent);
+  opacity: 0.6;
+}
+
+.kpi-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-subtle);
+  margin-bottom: 0.35rem;
+}
+
+.kpi-value {
+  font-family: var(--font-display);
+  font-size: 1.65rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+
+.kpi-value small {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.kpi-hint {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: 0.4rem;
+}
+
+.kpi--rappi::after {
+  background: linear-gradient(90deg, var(--rappi), transparent);
+}
+.kpi--uber::after {
+  background: linear-gradient(90deg, var(--uber), transparent);
+}
+
+/* Platform chips */
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.3rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+.chip-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+}
+
+.chip--rappi .chip-dot {
+  background: var(--rappi);
+}
+.chip--uber .chip-dot {
+  background: var(--uber);
+}
+
+/* Insights */
+.insights-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.insight-card {
+  position: relative;
+  padding: 1.15rem 1.15rem 1.15rem 1.35rem;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--bg-elevated) 0%, rgba(21, 27, 36, 0.6) 100%);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+}
+
+.insight-num {
+  position: absolute;
+  top: 0.85rem;
+  right: 1rem;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: rgba(148, 163, 184, 0.2);
+  user-select: none;
+}
+
+.insight-block {
+  margin: 0 0 0.65rem;
+  font-size: 0.9rem;
+}
+
+.insight-block:last-child {
+  margin-bottom: 0;
+}
+
+.insight-label {
+  display: inline-block;
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.25rem;
+}
+
+/* Structured analysis */
+.analysis-block {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.analysis-block:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.analysis-block h3 {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-subtle);
+  margin: 0 0 0.5rem;
+}
+
+.analysis-block p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+
+/* Heatmap */
+table.heatmap {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  font-size: 0.78rem;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+table.heatmap th,
+table.heatmap td {
+  border: none;
+  border-bottom: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  padding: 10px 12px;
+  text-align: center;
+}
+
+table.heatmap tr:last-child td,
+table.heatmap tr:last-child th {
+  border-bottom: none;
+}
+
+table.heatmap th:last-child,
+table.heatmap td:last-child {
+  border-right: none;
+}
+
+table.heatmap thead th {
+  background: rgba(255, 255, 255, 0.04);
+  font-weight: 700;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+table.heatmap tbody th {
+  text-align: left;
+  font-weight: 600;
+  color: var(--text);
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* diff negativa → Rappi más barato que Uber (ventaja precio Rappi) */
+.heat-rappi-cheaper {
+  background: var(--uber-soft);
+  color: #86efac;
+  font-weight: 600;
+}
+/* diff positiva → Rappi más caro que Uber */
+.heat-rappi-pricier {
+  background: var(--rappi-soft);
+  color: #fdba74;
+  font-weight: 600;
+}
+.heat-neutral {
+  background: rgba(100, 116, 139, 0.12);
+  color: var(--text-muted);
+}
+
+.heatmap-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.85rem;
+  font-size: 0.72rem;
+  color: var(--text-subtle);
+}
+
+.legend-swatch {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+}
+
+/* Charts wrapper */
+.chart-wrap {
+  width: 100%;
+  min-height: 300px;
+}
+
+.chart-wrap--promo {
+  min-height: 260px;
+}
+
+/* Empty state */
+.empty-state {
+  text-align: center;
+  padding: 4rem 1.5rem;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.empty-state h1 {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.empty-state p {
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+}
+
+.empty-steps {
+  text-align: left;
+  display: inline-block;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.empty-steps code {
+  font-size: 0.78rem;
+  color: var(--accent);
+}
+
+.meta {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.warnings-list {
+  margin: 0.75rem 0 0;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-sm);
+  background: rgba(251, 191, 36, 0.08);
+  border: 1px solid rgba(251, 191, 36, 0.25);
+  color: #fcd34d;
+  font-size: 0.85rem;
+}
+
+/* Print */
+@media print {
+  .app-header,
+  .body-bg,
+  .body-grain,
+  .nav-pills,
+  .header-actions {
+    display: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+
+  .page {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .panel {
+    background: #f8fafc !important;
+    border: 1px solid #e2e8f0 !important;
+    box-shadow: none !important;
+    break-inside: avoid;
+  }
+
+  .hero {
+    padding-top: 0;
+  }
+
+  .kpi {
+    background: #fff !important;
+    border: 1px solid #e2e8f0 !important;
+  }
+
+  .insight-card {
+    background: #fff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-left: 4px solid #ca8a04 !important;
+  }
+
+  .heat-rappi-cheaper {
+    background: #dcfce7 !important;
+    color: #166534 !important;
+  }
+  .heat-rappi-pricier {
+    background: #ffedd5 !important;
+    color: #9a3412 !important;
+  }
+  .heat-neutral {
+    background: #f1f5f9 !important;
+    color: #475569 !important;
+  }
+}

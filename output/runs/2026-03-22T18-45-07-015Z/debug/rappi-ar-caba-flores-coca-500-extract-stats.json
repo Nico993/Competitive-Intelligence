@@ -1,0 +1,124 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 94,
+  "blocks": 94,
+  "rows": 88,
+  "rowsPreview": [
+    {
+      "store_name": "Turbo",
+      "product_display_name": "Coca-Cola Zero 237 Ml Agregar",
+      "product_price": "$ 14.634,00",
+      "delivery_fee": "$ 1.190,00",
+      "service_fee": null,
+      "eta_range": "9 min",
+      "promotions": [],
+      "raw_snippet": "Turbo\n\n16 - 19 min\n\n•\n$ 1.190,00\nIr a la tienda\nAgregar\n0\n$ 2.439,00\n(6.89/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 3.229,00\n(2.59/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.109,00\n(4.68/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.469,00\n(4.12/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 1.119,00\n(4.73/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 14.634,00\n(6.89/ml)\n6 x Coca-Cola Sabor Original 354 mL\nAgregar\n0\n$ 3.249,00\n(2.60/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 ",
+      "match_confidence": 0.42857142857142855,
+      "store_url": "https://www.rappi.com.ar/tiendas/184221-turbo-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Despensa",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 2.599,00",
+      "delivery_fee": "$ 1.190,00",
+      "service_fee": null,
+      "eta_range": "7 min",
+      "promotions": [],
+      "raw_snippet": "La Despensa\n\n22 - 27 min\n\n•\n$ 1.190,00\nIr a la tienda\nAgregar\n0\n$ 3.209,00\n(2.57/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.429,00\n(6.87/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.109,00\n(4.68/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.449,00\n(4.09/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 7.619,00\n(7619/combo)\nCombo Coca-Cola Sabor Original 1.75 L + Mini Oreo 150 g\nAgregar\n0\n$ 1.119,00\n(4.73/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 3.239,00\n(2.60/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 14.574,00\n(6.87/ml)\n6 x Coca-Cola Sabor Origina",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/220672-turbo-express-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.985,00",
+      "delivery_fee": "$ 2.590,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n36 min o prog.\n\n•\n$ 2.590,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 1.512,00\n$ 1.890,00\n20%\n(0.68/ml)\nGaseosa Cola Original Coto\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/219393-coto/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Coto",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.575,00",
+      "delivery_fee": "$ 2.790,00",
+      "service_fee": null,
+      "eta_range": "1 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Coto\n\n51 min o prog.\n\n•\n$ 2.790,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 1.512,00\n$ 1.890,00\n20%\n(0.68/ml)\nGaseosa Cola Original Coto\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAg",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/130596-coto-electro-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Jumbo",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.360,00",
+      "delivery_fee": "$ 2.590,00",
+      "service_fee": null,
+      "eta_range": "9 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Jumbo\n\n49 min o prog.\n\n•\n$ 2.590,00\nIr a la tienda\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 1.826,00\n$ 2.200,00\n17%\n(3.05/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Zero 237 Ml\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 2.477,75\n$ 2.915,00\n15%\n(1.99/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 1.000,00\n(4.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.63/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 3.326,00\n(2.22/ml)\nCoca-Cola Gaseosa Sabor Original\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 4.450,00\n(2.55/ml)\nCoca-Cola Sabor Livian",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/141879-jumbo-buenos-aires/s",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Fabrica Sandwiches Miga - Triunvirato    2",
+      "product_display_name": "Coca-Cola Sin Azúcar 500 ml$ 2.400,00Coca-Cola Sabor Original 1.75 l$ 6.900,00Coca-Cola Light 500 ml$ 2.400,00Coca-Cola Sin Azúcar 1.75 l$ 6.900,00Coca-cola sabor original 600 ml$ 2.400,00Coca-Cola Light 354 ml$ 2.400,00Levité Manzana 500 ml$ 1.750,00Coca-Cola Sabor Original 354 ml$ 2.400,00Coca-Cola Light 1.75 l$ 6.900,00Levité Naranja 500 ml$ 1.750,00Coca-Cola Light 237 ml$ 1.400,00Coca-Cola Sin Azúcar 354 ml$ 2.400,00Levité Pomelo 500 ml$ 1.750,00Levité Pomelo 500 ml$ 1.750,00Coca-Cola Sabor Original 237 ml$ 14.000,00Levité Naranja Cero 500 ml$ 1.750,00Coca-Cola Sin Azúcar 237 ml$ 1.400,00Levité Manzana Cero 500 ml$ 1.750,00",
+      "product_price": "$ 2.400,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "0 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "La Fabrica Sandwiches Miga - Triunvirato    20 min•$ 0,00•4.6Envío Gratis: Aplican TyCIr a la tiendaCoca-Cola Sin Azúcar 500 ml$ 2.400,00Coca-Cola Sabor Original 1.75 l$ 6.900,00Coca-Cola Light 500 ml$ 2.400,00Coca-Cola Sin Azúcar 1.75 l$ 6.900,00Coca-cola sabor original 600 ml$ 2.400,00Coca-Cola Light 354 ml$ 2.400,00Levité Manzana 500 ml$ 1.750,00Coca-Cola Sabor Original 354 ml$ 2.400,00Coca-Cola Light 1.75 l$ 6.900,00Levité Naranja 500 ml$ 1.750,00Coca-Cola Light 237 ml$ 1.400,00Coca-Cola Sin Azúcar 354 ml$ 2.400,00Levité Pomelo 500 ml$ 1.750,00Levité Pomelo 500 ml$ 1.750,00Coca-Cola Sabor Original 237 ml$ 14.000,00Levité Naranja Cero 500 ml$ 1.750,00Coca-Cola Sin Azúcar 237 ml$ 1.400,00Levité Manzana Cero 500 ml$ 1.750,00",
+      "match_confidence": 0.014173228346456693,
+      "store_url": "https://www.rappi.com.ar/restaurantes/220490",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "La Fabrica Sandwiches Miga - Triunvirato",
+      "product_display_name": "Coca-Cola Light 237 ml",
+      "product_price": "$ 1.400,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "0 min",
+      "promotions": [
+        "envío gratis"
+      ],
+      "raw_snippet": "La Fabrica Sandwiches Miga - Triunvirato\n\n20 min\n\n•\n$ 0,00\n•\n4.6\nEnvío Gratis: Aplican TyC\nIr a la tienda\nCoca-Cola Sin Azúcar 500 ml\n$ 2.400,00\nCoca-Cola Sabor Original 1.75 l\n$ 6.900,00\nCoca-Cola Light 500 ml\n$ 2.400,00\nCoca-Cola Sin Azúcar 1.75 l\n$ 6.900,00\nCoca-cola sabor original 600 ml\n$ 2.400,00\nCoca-Cola Light 354 ml\n$ 2.400,00\nLevité Manzana 500 ml\n$ 1.750,00\nCoca-Cola Sabor Original 354 ml\n$ 2.400,00\nCoca-Cola Light 1.75 l\n$ 6.900,00\nLevité Naranja 500 ml\n$ 1.750,00\nCoca-Cola Light 237 ml\n$ 1.400,00\nCoca-Cola Sin Azúcar 354 ml\n$ 2.400,00\nLevité Pomelo 500 ml\n$ 1.750,00\nLevité Pomelo 500 ml\n$ 1.750,00\nCoca-Cola Sabor Original 237 ml\n$ 14.000,00\nLevité Naranja Cero 500 ml\n$ 1.750,00\nCoca-Cola Sin Azúcar 237 ml\n$ 1.400,00\nLevité Manzana Cero 500 ml\n$ 1.750,00\nVer todos",
+      "match_confidence": 0.4090909090909091,
+      "store_url": "https://www.rappi.com.ar/restaurantes/220490",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Carrefour Hiper",
+      "product_display_name": "Coca Cola Zero Agregar",
+      "product_price": "$ 1.900,00",
+      "delivery_fee": "$ 2.590,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "descuento"
+      ],
+      "raw_snippet": "Carrefour Hiper\n\n36 min o prog.\n\n•\n$ 2.590,00\nIr a la tienda\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Sabor Original 1,25 Lt\nAgregar\n0\n$ 2.999,00\n(1.72/ml)\nCoca-Cola Sabor Original 1,75 Lt\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Sabor Original 354 Ml\nAgregar\n0\n$ 2.200,00\n(3.67/ml)\nCoca Cola Sabor Original\nAgregar\n0\n$ 5.250,00\n(2.34/ml)\nCoca-Cola Gaseosa Sabor Original 2.25 L\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.97/ml)\nCoca-Cola Zero 2,25 Lt\nAgregar\n0\n$ 2.940,00\n$ 4.200,00\n30%\n(1.47/ml)\nGaseosa Pepsi 2 L\nAgregar\n0\n$ 2.999,00\n(1.72/ml)\nCoca-Cola Zero 1,75 Lt\nAgregar\n0\n$ 3.937,50\n$ 5.250,00\n25%\n(1.75/ml)\nCoca-Cola Gaseosa Sabor Liviano\nAgregar\n0\n$ 2.200,00\n(6.22/ml)\nCoca-Cola Zero 354 Ml\nAgregar\n0\n$ 2.915,00\n(2.34/ml)\nCoca-Cola Zero 1,25 Lt\nAgregar\n0\n$ 7.875,00\n(3.50/ml)\nCoca-Cola Sabor Or",
+      "match_confidence": 0.6428571428571429,
+      "store_url": "https://www.rappi.com.ar/tiendas/229666-carrefourhiper-nc/s",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "mode": "ir-a-la-tienda",
+  "ctaCount": 78,
+  "blocks": 78,
+  "rows": 16,
+  "rowsPreview": [
+    {
+      "store_name": "Burger King - Valentín Alsina",
+      "product_display_name": "<img alt=\"Nuggets X10 + papas regulares\" src=\"https://images.rappi.com.ar/products/f5513420-96f5-40fd-b1d9-e44648296660.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>Nuggets X10 + papas regulares$ 13.499,85$ 20.769,0035%30  Nuggets rebozados$ 17.900,00Nuggets Vegetales x10$ 9.900,00<img alt=\"Combo King Vegetal\" src=\"https://images.rappi.com.ar/products/73be2fd7-2fff-47ea-b39f-810e590aeb16.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo King Vegetal$ 18.200,00Combo King de Pollo  $ 18.200,00<img alt=\"Combo Nuggets Vegetal x20\" src=\"https://images.rappi.com.ar/products/f4e36a6a-ae00-401d-a5ac-f3dbc504e2f9.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Nuggets Vegetal x20$ 21.900,00<img alt=\"Combo Cajita nuggets x4\" src=\"https://images.rappi.com.ar/products/0342058f-ea62-430d-8500-7a84d75c453b.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\" loading=\"lazy\"/>Combo Cajita nuggets x4$ 15.100,00Combo  Whopper Vegetal Guacamole$ 21.300,00Combo Whopper + Franui$ 22.500,00Combo Cajita Nuggets Vegetales x 4$ 15.100,00Combo Bacon King Pollo$ 22.500,00",
+      "product_price": "$ 13.499,85",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "13 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Valentín Alsina13 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tienda<img alt=\"Nuggets X10 + papas regulares\" src=\"https://images.rappi.com.ar/products/f5513420-96f5-40fd-b1d9-e44648296660.png?e=webp&amp;q=80&amp;d=130x130\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"sc-42fa5ac5-0 jgBsGS\"/>Nuggets X10 + papas regulares$ 13.499,85$ 20.769,0035%30  Nuggets rebozados$ 17.900,00Nuggets Vegetales x10$ 9.900,00<img alt=\"Combo King Vegetal\" src=\"https://images.rappi.com.ar/products/73be2fd7-2fff-47ea-b39f-810e590aeb16.jpg?e=webp&amp;q=80&amp;d=130x130\" decoding=\"asy",
+      "match_confidence": 0.003200731595793324,
+      "store_url": "https://www.rappi.com.ar/restaurantes/131105",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Burger King - Valentín Alsina",
+      "product_display_name": "30 Nuggets rebozados",
+      "product_price": "$ 17.900,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Burger King - Valentín Alsina\n\n13 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nNuggets X10 + papas regulares\n$ 13.499,85$ 20.769,00\n35%\n30 Nuggets rebozados\n$ 17.900,00\nNuggets Vegetales x10\n$ 9.900,00\nCombo King Vegetal\n$ 18.200,00\nCombo King de Pollo\n$ 18.200,00\nCombo Nuggets Vegetal x20\n$ 21.900,00\nCombo Cajita nuggets x4\n$ 15.100,00\nCombo Whopper Vegetal Guacamole\n$ 21.300,00\nCombo Whopper + Franui\n$ 22.500,00\nCombo Cajita Nuggets Vegetales x 4\n$ 15.100,00\nCombo Bacon King Pollo\n$ 22.500,00\nVer todos",
+      "match_confidence": 0.35,
+      "store_url": "https://www.rappi.com.ar/restaurantes/131105",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - EK2 int",
+      "product_display_name": "McNuggets x10$ 12.200,00McCombio Mediano McNuggets x10$ 17.000,00McNuggets x20$ 14.800,00McCombo Grande McNuggets x10$ 19.500,00McNifica + Papas Medianas$ 11.899,36$ 17.600,0032%McCombo Grande McNuggets x20$ 22.800,00Cajita Feliz McNuggets x 6$ 12.900,00McCombo Grande Doble Bacon Cheddar McMelt$ 24.200,00Cajita Feliz McNuggets x 4$ 12.200,0020 OFF CajitaFeliz + McCombo Mediano Big Mac$ 23.040,00$ 28.800,0020%McCombo Grande McNífica$ 20.600,00McNuggets x4$ 3.350,00$ 6.700,0050%McCombo Grande McCrispy Chicken Cheddar y Bacon$ 19.000,00McNuggets x6$ 8.200,00McCombo Mediano McNuggets x20$ 20.300,00",
+      "product_price": "$ 12.200,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "16 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - EK2 int16 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaMcNuggets x10$ 12.200,00McCombio Mediano McNuggets x10$ 17.000,00McNuggets x20$ 14.800,00McCombo Grande McNuggets x10$ 19.500,00McNifica + Papas Medianas$ 11.899,36$ 17.600,0032%McCombo Grande McNuggets x20$ 22.800,00Cajita Feliz McNuggets x 6$ 12.900,00McCombo Grande Doble Bacon Cheddar McMelt$ 24.200,00Cajita Feliz McNuggets x 4$ 12.200,0020 OFF CajitaFeliz + McCombo Mediano Big Mac$ 23.040,00$ 28.800,0020%McCombo Grande McNífica$ 20.600,00McNuggets x4$ 3.350,00$ 6.700,0050%McCombo Grande McCrispy Chicken Cheddar y Bacon$ 19.000,00McNuggets x6$ 8.200,00McCombo Mediano McNuggets x20$ 20.300,00",
+      "match_confidence": 0.011647254575707155,
+      "store_url": "https://www.rappi.com.ar/restaurantes/113529",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "McDonald's - EK2 int",
+      "product_display_name": "McNuggets x6",
+      "product_price": "$ 8.200,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "6 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "McDonald's - EK2 int\n\n16 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nMcNuggets x10\n$ 12.200,00\nMcCombio Mediano McNuggets x10\n$ 17.000,00\nMcNuggets x20\n$ 14.800,00\nMcCombo Grande McNuggets x10\n$ 19.500,00\nMcNifica + Papas Medianas\n$ 11.899,36$ 17.600,00\n32%\nMcCombo Grande McNuggets x20\n$ 22.800,00\nCajita Feliz McNuggets x 6\n$ 12.900,00\nMcCombo Grande Doble Bacon Cheddar McMelt\n$ 24.200,00\nCajita Feliz McNuggets x 4\n$ 12.200,00\n20 OFF CajitaFeliz + McCombo Mediano Big Mac\n$ 23.040,00$ 28.800,00\n20%\nMcCombo Grande McNífica\n$ 20.600,00\nMcNuggets x4\n$ 3.350,00$ 6.700,00\n50%\nMcCombo Grande McCrispy Chicken Cheddar y Bacon\n$ 19.000,00\nMcNuggets x6\n$ 8.200,00\nMcCombo Mediano McNuggets x20\n$ 20.300,00\nVer todos",
+      "match_confidence": 0.5833333333333334,
+      "store_url": "https://www.rappi.com.ar/restaurantes/113529",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mostaza - Pompeya 1",
+      "product_display_name": "Combo Homo Argentum$ 14.980,00$ 21.400,0030%2 Triple Cheese Bacon Jr + 2 Papas$ 23.498,98$ 34.400,0032%Combo Nuggets X10$ 17.500,00Pollo Crunchy + Papas Medianas$ 6.999,00$ 9.999,0030%Doble Stack Bbq Junior + Papas Medianas$ 8.999,00$ 14.100,0036%2 Combos Mega Upam Taste Bacon$ 29.499,00$ 39.800,0026%Combo Mega Big Bang Cheddar Doble$ 22.900,00Cajita Mostaza Nuggets$ 13.900,00Big Bang Cheddar + Papas Medianas$ 12.499,00$ 19.200,0035%Triple Upam Taste Bacon Ultra + Papas$ 18.998,99$ 24.100,0021%Combo Mega Cuarto Bacon Doble$ 22.500,00Combo Doble Homo Argentum Papas$ 23.900,00Combo Mega Upam Taste Bacon Doble$ 22.900,00Big Bang Cheddar Doble$ 17.500,00Combo Mega Cuarto Bacon$ 19.500,00Combo Mega Upam Taste Bacon$ 19.900,00Homo Argentum Doble Papas$ 18.500,00Combo Mega Upam Taste Bacon Ultra Triple$ 25.500,00Combo Cuarto Bacon 6ta a Fondo Doble$ 22.500,00",
+      "product_price": "$ 14.980,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mostaza - Pompeya 13 min•$ 0,00•4.8Envío Gratis: Aplican TyCIr a la tiendaCombo Homo Argentum$ 14.980,00$ 21.400,0030%2 Triple Cheese Bacon Jr + 2 Papas$ 23.498,98$ 34.400,0032%Combo Nuggets X10$ 17.500,00Pollo Crunchy + Papas Medianas$ 6.999,00$ 9.999,0030%Doble Stack Bbq Junior + Papas Medianas$ 8.999,00$ 14.100,0036%2 Combos Mega Upam Taste Bacon$ 29.499,00$ 39.800,0026%Combo Mega Big Bang Cheddar Doble$ 22.900,00Cajita Mostaza Nuggets$ 13.900,00Big Bang Cheddar + Papas Medianas$ 12.499,00$ 19.200,0035%Triple Upam Taste Bacon Ultra + Papas$ 18.998,99$ 24.100,0021%Combo Mega Cuarto Bacon Doble$ 22.500,00Combo Doble Homo Argentum Papas$ 23.900,00Combo Mega Upam Taste Bacon Doble$ 22.900,00Big Bang Cheddar Doble$ 17.500,00Combo Mega Cuarto Bacon$ 19.500,00Combo Mega Upam Taste Bacon$ 19.90",
+      "match_confidence": 0.008101851851851851,
+      "store_url": "https://www.rappi.com.ar/restaurantes/214479",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mostaza - Pompeya",
+      "product_display_name": "Combo Nuggets X10",
+      "product_price": "$ 17.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mostaza - Pompeya\n\n13 min\n\n•\n$ 0,00\n•\n4.8\nEnvío Gratis: Aplican TyC\nIr a la tienda\nCombo Homo Argentum\n$ 14.980,00$ 21.400,00\n30%\n2 Triple Cheese Bacon Jr + 2 Papas\n$ 23.498,98$ 34.400,00\n32%\nCombo Nuggets X10\n$ 17.500,00\nPollo Crunchy + Papas Medianas\n$ 6.999,00$ 9.999,00\n30%\nDoble Stack Bbq Junior + Papas Medianas\n$ 8.999,00$ 14.100,00\n36%\n2 Combos Mega Upam Taste Bacon\n$ 29.499,00$ 39.800,00\n26%\nCombo Mega Big Bang Cheddar Doble\n$ 22.900,00\nCajita Mostaza Nuggets\n$ 13.900,00\nBig Bang Cheddar + Papas Medianas\n$ 12.499,00$ 19.200,00\n35%\nTriple Upam Taste Bacon Ultra + Papas\n$ 18.998,99$ 24.100,00\n21%\nCombo Mega Cuarto Bacon Doble\n$ 22.500,00\nCombo Doble Homo Argentum Papas\n$ 23.900,00\nCombo Mega Upam Taste Bacon Doble\n$ 22.900,00\nBig Bang Cheddar Doble\n$ 17.500,00\nCombo Mega Cuarto Bacon\n",
+      "match_confidence": 0.4117647058823529,
+      "store_url": "https://www.rappi.com.ar/restaurantes/214479",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mirana Burger - Almagro",
+      "product_display_name": "Completa doble+ papas fritas$ 14.399,00Muzza burger doble+papas fritas$ 14.699,00Nuggets x 13$ 8.300,00Nuggets x 20$ 13.500,00Doble completa+ papas fritas+ bebida$ 15.130,00$ 17.800,0015%Queen burger doble+papas fritas$ 14.399,00Americana doble+papas fritas$ 14.399,00Queen burger doble+ papas fritas+ bebida$ 15.130,00$ 17.800,0015%Muzza burger+papas fritas$ 12.799,00Super Crispy Triple+papas Fritas$ 23.000,00Triple m simple +papas fritas$ 13.005,00$ 15.300,0015%Triple muzza+ papas fritas + bebida$ 18.999,00Muzza Burger Triple+papas Fritas$ 23.000,00Oklahoma Burger Triple+papas Fritas$ 23.000,00Americana+papas fritas$ 12.799,00Cheeseburger Triple+papas Fritas$ 20.000,00Queen burger+papas fritas$ 12.799,00Queen burger triple+papas fritas$ 23.000,00Americana Triple+papas Fritas$ 23.000,00Completa Triple+papas Fritas$ 23.000,00King Burger Triple+papas Fritas$ 23.000,00Triple M Triple+papas Fritas$ 23.000,00",
+      "product_price": "$ 14.399,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "13 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mirana Burger - Almagro13 min•$ 0,00•4.7Envío Gratis: Aplican TyCIr a la tiendaCompleta doble+ papas fritas$ 14.399,00Muzza burger doble+papas fritas$ 14.699,00Nuggets x 13$ 8.300,00Nuggets x 20$ 13.500,00Doble completa+ papas fritas+ bebida$ 15.130,00$ 17.800,0015%Queen burger doble+papas fritas$ 14.399,00Americana doble+papas fritas$ 14.399,00Queen burger doble+ papas fritas+ bebida$ 15.130,00$ 17.800,0015%Muzza burger+papas fritas$ 12.799,00Super Crispy Triple+papas Fritas$ 23.000,00Triple m simple +papas fritas$ 13.005,00$ 15.300,0015%Triple muzza+ papas fritas + bebida$ 18.999,00Muzza Burger Triple+papas Fritas$ 23.000,00Oklahoma Burger Triple+papas Fritas$ 23.000,00Americana+papas fritas$ 12.799,00Cheeseburger Triple+papas Fritas$ 20.000,00Queen burger+papas fritas$ 12.799,00Queen bu",
+      "match_confidence": 0.007641921397379912,
+      "store_url": "https://www.rappi.com.ar/restaurantes/249268",
+      "notes": "rappi:ir-a-la-tienda"
+    },
+    {
+      "store_name": "Mirana Burger - Almagro",
+      "product_display_name": "Nuggets x 20",
+      "product_price": "$ 13.500,00",
+      "delivery_fee": "$ 0,00",
+      "service_fee": null,
+      "eta_range": "3 min",
+      "promotions": [
+        "envío gratis",
+        "descuento"
+      ],
+      "raw_snippet": "Mirana Burger - Almagro\n\n13 min\n\n•\n$ 0,00\n•\n4.7\nEnvío Gratis: Aplican TyC\nIr a la tienda\nCompleta doble+ papas fritas\n$ 14.399,00\nMuzza burger doble+papas fritas\n$ 14.699,00\nNuggets x 13\n$ 8.300,00\nNuggets x 20\n$ 13.500,00\nDoble completa+ papas fritas+ bebida\n$ 15.130,00$ 17.800,00\n15%\nQueen burger doble+papas fritas\n$ 14.399,00\nAmericana doble+papas fritas\n$ 14.399,00\nQueen burger doble+ papas fritas+ bebida\n$ 15.130,00$ 17.800,00\n15%\nMuzza burger+papas fritas\n$ 12.799,00\nSuper Crispy Triple+papas Fritas\n$ 23.000,00\nTriple m simple +papas fritas\n$ 13.005,00$ 15.300,00\n15%\nTriple muzza+ papas fritas + bebida\n$ 18.999,00\nMuzza Burger Triple+papas Fritas\n$ 23.000,00\nOklahoma Burger Triple+papas Fritas\n$ 23.000,00\nAmericana+papas fritas\n$ 12.799,00\nCheeseburger Triple+papas Fritas\n$ 20.000,00",
+      "match_confidence": 0.5833333333333334,
+      "store_url": "https://www.rappi.com.ar/restaurantes/249268",
+      "notes": "rappi:ir-a-la-tienda"
+    }
+  ]
+}

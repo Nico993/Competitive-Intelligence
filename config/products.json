@@ -1,0 +1,51 @@
+{
+  "maxStoresPerRun": 4,
+  "delayMsBetweenAddresses": 2500,
+  "delayMsBetweenProducts": 2000,
+  "delayMsBetweenStores": 1200,
+  "delayMsBetweenActions": 600,
+  "products": [
+    {
+      "id": "big-mac",
+      "label": "Big Mac o equivalente",
+      "vertical": "restaurants",
+      "searchQuery": "Big Mac",
+      "matchPatterns": ["big\\s*mac", "bigmac"]
+    },
+    {
+      "id": "combo-mediano",
+      "label": "Combo mediano (hamburguesa papas bebida)",
+      "vertical": "restaurants",
+      "searchQuery": "McCombo mediano",
+      "matchPatterns": ["combo\\s*mediano", "mccombo", "combo\\s*\\+"]
+    },
+    {
+      "id": "nuggets",
+      "label": "Nuggets 6 o 10",
+      "vertical": "restaurants",
+      "searchQuery": "McNuggets 10",
+      "matchPatterns": ["nuggets?", "mcnuggets?"]
+    },
+    {
+      "id": "coca-500",
+      "label": "Coca-Cola 500ml",
+      "vertical": "retail",
+      "searchQuery": "coca cola 500ml",
+      "matchPatterns": ["coca[- ]?cola", "500\\s*ml", "500cc"]
+    },
+    {
+      "id": "agua-1l",
+      "label": "Agua embotellada 1L",
+      "vertical": "retail",
+      "searchQuery": "agua mineral 1 litro",
+      "matchPatterns": ["agua", "1\\s*l", "1l", "litro"]
+    },
+    {
+      "id": "panales",
+      "label": "Pañales (marca reconocida)",
+      "vertical": "pharmacy",
+      "searchQuery": "pañales Pampers recién nacido",
+      "matchPatterns": ["pañales?", "pampers", "huggies"]
+    }
+  ]
+}
